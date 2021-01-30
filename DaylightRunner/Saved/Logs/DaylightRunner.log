@@ -1281,3 +1281,21 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.01.30-15.38.36:944][159]AssetCheck: New page: Asset Save: multiple assets
 [2021.01.30-15.38.36:944][159]LogContentValidation: Display: Validating World /Game/Maps/Test.Test
 [2021.01.30-15.38.36:945][159]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Test_BuiltData.Test_BuiltData
+[2021.01.30-15.40.52:289][370]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2021.01.30-15.40.52:314][370]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Test.Test
+[2021.01.30-15.40.52:315][370]Cmd: MAP LOAD FILE="D:/03_Unreal Projects/Github/DaylightRunner/DaylightRunner/Content/Maps/Test.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.01.30-15.40.52:315][370]LightingResults: New page: Lighting Build
+[2021.01.30-15.40.52:315][370]LoadErrors: New page: Loading map: Test.umap
+[2021.01.30-15.40.52:341][370]LogWorld: UWorld::CleanupWorld for Test, bSessionEnded=true, bCleanupResources=true
+[2021.01.30-15.40.52:341][370]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-15.40.52:341][370]MapCheck: New page: Map Check
+[2021.01.30-15.40.52:341][370]LightingResults: New page: Lighting Build
+[2021.01.30-15.40.52:363][370]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.01.30-15.40.52:366][370]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2021.01.30-15.40.52:370][370]LogAudio: Display: Audio Device (ID: 1) registered with world 'Test'.
+[2021.01.30-15.40.52:371][370]LogAIModule: Creating AISystem for world Test
+[2021.01.30-15.40.52:373][370]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.01.30-15.40.52:397][370]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2021.01.30-15.40.52:407][370]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.01.30-15.40.52:407][370]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.055ms to complete.
+[2021.01.30-15.40.52:407][370]LogFileHelpers: Loading map 'Test' took 0.092
