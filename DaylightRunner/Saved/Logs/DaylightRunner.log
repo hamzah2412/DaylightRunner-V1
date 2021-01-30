@@ -1961,3 +1961,101 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.01.30-11.14.18:702][677]LogContentValidation: Display: Validating Blueprint /Game/Art/RunnerFiles/Blueprints/MasterTile.MasterTile
 [2021.01.30-11.16.04:004][214]BlueprintLog: New page: Compile MasterTile
 [2021.01.30-11.16.04:044][214]LogUObjectHash: Compacting FUObjectHashTables data took   4.01ms
+[2021.01.30-11.20.20:808][894]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.30-11.20.20:821][894]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.30-11.20.20:821][894]PIE: New page: PIE session: ThirdPersonExampleMap (31 Jan 2021, 3:20:20 am)
+[2021.01.30-11.20.20:822][894]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.01.30-11.20.20:830][894]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008632s)
+[2021.01.30-11.20.20:831][894]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.01.30-11.20.20:831][894]LogPlayLevel: PIE: World Init took: (0.001225s)
+[2021.01.30-11.20.20:831][894]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.009954s)
+[2021.01.30-11.20.20:862][894]LogUObjectHash: Compacting FUObjectHashTables data took   3.97ms
+[2021.01.30-11.20.20:865][894]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2021.01.30-11.20.20:865][894]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.30-11.20.20:865][894]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.30-11.20.20:865][894]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.30-11.20.20:865][894]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.30-11.20.20:865][894]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.30-11.20.20:866][894]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.30-11.20.20:866][894]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.30-11.20.20:866][894]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.30-11.20.20:866][894]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.30-11.20.20:866][894]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.30-11.20.20:870][894]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.30-11.20.20:870][894]LogAudioMixer: Display: 1: FrontRight
+[2021.01.30-11.20.20:882][894]LogAudioMixer: Display: Using Audio Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2021.01.30-11.20.20:882][894]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.30-11.20.20:882][894]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.30-11.20.20:882][894]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.30-11.20.20:882][894]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.30-11.20.20:882][894]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.30-11.20.20:882][894]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.01.30-11.20.20:894][894]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.30-11.20.20:894][894]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.30-11.20.20:894][894]LogInit: FAudioDevice initialized.
+[2021.01.30-11.20.20:894][894]LogAudio: Display: Audio Device (ID: 11) registered with world 'ThirdPersonExampleMap'.
+[2021.01.30-11.20.20:902][894]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.01.30-11.20.20:904][894]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2021.01.30-19.20.20
+[2021.01.30-11.20.20:904][894]LogWorld: Bringing up level for play took: 0.001320
+[2021.01.30-11.20.20:904][894]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2021.01.30-11.20.20:906][894]PIE: Server logged in
+[2021.01.30-11.20.20:907][894]PIE: Play in editor total start time 0.086 seconds.
+[2021.01.30-11.20.27:615][693]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.30-11.20.27:615][693]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.01.30-11.20.27:615][693]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.01.30-11.20.27:615][693]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-11.20.27:620][693]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.30-11.20.27:637][693]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-11.20.27:662][693]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.01.30-11.20.27:662][693]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.30-11.20.27:663][693]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.30-11.20.27:675][693]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.30-11.20.27:679][693]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2021.01.30-11.20.27:713][694]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2021.01.30-11.21.05:381][951]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2021.01.30-11.21.05:381][951]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-11.21.09:432][196]LogSlate: Window 'Message' being destroyed
+[2021.01.30-11.21.09:435][196]Message dialog closed, result: Yes, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/Art/RunnerFiles/Tiles/FloorTile_Mat.FloorTile_Mat
+(Selecting 'No' will cause all changes to be lost!)
+[2021.01.30-11.21.09:855][196]LogMaterial: Display: Missing cached shader map for material FloorTile_Mat, compiling. 
+[2021.01.30-11.21.09:891][196]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.01.30-11.21.09:891][196]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.01.30-11.21.09:891][196]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.01.30-11.21.09:891][196]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.01.30-11.21.09:891][196]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.01.30-11.21.09:891][196]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.01.30-11.21.09:891][196]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.01.30-11.21.09:891][196]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.01.30-11.21.09:895][196]LogMaterial: Display: Missing cached shader map for material FloorTile_Mat, compiling. 
+[2021.01.30-11.21.09:968][196]LogUObjectHash: Compacting FUObjectHashTables data took   4.26ms
+[2021.01.30-11.21.09:978][196]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.01.30-11.21.10:543][196]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 15
+[2021.01.30-11.21.10:543][196]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 14
+[2021.01.30-11.21.10:809][196]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 13
+[2021.01.30-11.21.10:809][196]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 12
+[2021.01.30-11.21.10:809][196]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 10
+[2021.01.30-11.21.10:809][196]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2021.01.30-11.21.10:809][196]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 6
+[2021.01.30-11.21.10:809][196]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.01.30-11.21.10:809][196]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.01.30-11.21.10:809][196]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 3
+[2021.01.30-11.21.10:809][196]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2021.01.30-11.21.10:813][196]TextureStreamingBuild: Display: Compiling optional shaders took 0.839 seconds.
+[2021.01.30-11.21.10:943][196]LogUObjectHash: Compacting FUObjectHashTables data took   6.10ms
+[2021.01.30-11.21.11:043][196]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2021.01.30-11.21.11:043][196]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-11.21.11:212][203]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2021.01.30-11.21.13:432][453]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2021.01.30-11.21.13:450][453]LogSavePackage: Moving 'D:/03_Unreal Projects/Github/DaylightRunner/DaylightRunner/Saved/ThirdPersonExampleMap187E4FE748991136D7B6458951078F7E.tmp' to 'D:/03_Unreal Projects/Github/DaylightRunner/DaylightRunner/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.01.30-11.21.13:525][453]LogSavePackage: Moving 'D:/03_Unreal Projects/Github/DaylightRunner/DaylightRunner/Saved/ThirdPersonExampleMap_BuiltDataA2F208B748E0B184843050A7C9C0CD23.tmp' to 'D:/03_Unreal Projects/Github/DaylightRunner/DaylightRunner/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.01.30-11.21.13:537][453]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.30-11.21.13:537][453]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.01.30-11.21.13:537][453]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.01.30-11.21.14:331][536]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2021.01.30-11.21.16:020][536]LogSlate: Window 'Save Content' being destroyed
+[2021.01.30-11.21.16:054][536]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/RunnerFiles/Tiles/FloorTile_Mat" FILE="D:/03_Unreal Projects/Github/DaylightRunner/DaylightRunner/Content/Art/RunnerFiles/Tiles/FloorTile_Mat.uasset" SILENT=true
+[2021.01.30-11.21.16:075][536]LogSavePackage: Moving 'D:/03_Unreal Projects/Github/DaylightRunner/DaylightRunner/Saved/FloorTile_Mat2144FFE84F45E2D8C794E98C62631E93.tmp' to 'D:/03_Unreal Projects/Github/DaylightRunner/DaylightRunner/Content/Art/RunnerFiles/Tiles/FloorTile_Mat.uasset'
+[2021.01.30-11.21.16:085][536]AssetCheck: New page: Asset Save: FloorTile_Mat
+[2021.01.30-11.21.16:086][536]LogContentValidation: Display: Validating Material /Game/Art/RunnerFiles/Tiles/FloorTile_Mat.FloorTile_Mat
+[2021.01.30-11.55.33:127][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
