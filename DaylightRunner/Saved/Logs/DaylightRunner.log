@@ -3862,3 +3862,5 @@ Script call stack:
 [2021.02.13-09.12.14:756][328]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
 [2021.02.13-09.12.14:777][329]LogEditorBookmarks: Warning: FBookmarkTypeToolsImpl::JumpToBookmark - Null Bookmark at index 1
 [2021.02.13-09.12.14:777][329]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2021.02.13-09.53.37:749][255]LogFileManager: Warning: DeleteFile was unable to delete 'D:/03_Unreal Projects/Github/DaylightRunner/DaylightRunner/Intermediate/CachedAssetRegistry.bin', retrying in .5s...
+[2021.02.13-09.53.38:082][256]LogFileManager: Warning: DeleteFile recovered during retry!
