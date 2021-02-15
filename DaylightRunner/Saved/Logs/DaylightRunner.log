@@ -3033,3 +3033,1071 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.02.15-06.58.23:295][823]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
 [2021.02.15-06.58.23:310][823]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
 [2021.02.15-06.58.23:329][824]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2021.02.15-07.39.40:100][  4]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Art/RunnerFiles/Blueprints/Paused.Paused
+[2021.02.15-07.54.37:770][708]BlueprintLog: New page: Compile Paused
+[2021.02.15-07.54.37:818][708]LogUObjectHash: Compacting FUObjectHashTables data took   3.79ms
+[2021.02.15-07.54.37:930][708]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/RunnerFiles/Blueprints/Paused" FILE="D:/03_Unreal Projects/Github/DaylightRunner/DaylightRunner/Content/Art/RunnerFiles/Blueprints/Paused.uasset" SILENT=true
+[2021.02.15-07.54.37:946][708]LogSavePackage: Moving 'D:/03_Unreal Projects/Github/DaylightRunner/DaylightRunner/Saved/PausedA82C649B445181B903D21091DC4411AF.tmp' to 'D:/03_Unreal Projects/Github/DaylightRunner/DaylightRunner/Content/Art/RunnerFiles/Blueprints/Paused.uasset'
+[2021.02.15-07.54.37:968][708]AssetCheck: New page: Asset Save: Paused
+[2021.02.15-07.54.37:968][708]LogContentValidation: Display: Validating WidgetBlueprint /Game/Art/RunnerFiles/Blueprints/Paused.Paused
+[2021.02.15-07.55.37:895][833]BlueprintLog: New page: Compile Paused
+[2021.02.15-07.55.37:944][833]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2021.02.15-07.55.38:030][833]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/RunnerFiles/Blueprints/Paused" FILE="D:/03_Unreal Projects/Github/DaylightRunner/DaylightRunner/Content/Art/RunnerFiles/Blueprints/Paused.uasset" SILENT=true
+[2021.02.15-07.55.38:042][833]LogSavePackage: Moving 'D:/03_Unreal Projects/Github/DaylightRunner/DaylightRunner/Saved/Paused987C4DF749CFF7CA81F132AFF922F079.tmp' to 'D:/03_Unreal Projects/Github/DaylightRunner/DaylightRunner/Content/Art/RunnerFiles/Blueprints/Paused.uasset'
+[2021.02.15-07.55.38:073][833]AssetCheck: New page: Asset Save: Paused
+[2021.02.15-07.55.38:073][833]LogContentValidation: Display: Validating WidgetBlueprint /Game/Art/RunnerFiles/Blueprints/Paused.Paused
+[2021.02.15-09.01.30:529][  7]LogUObjectHash: Compacting FUObjectHashTables data took   4.18ms
+[2021.02.15-09.01.30:530][  7]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/RunnerLevel' took 0.050
+[2021.02.15-09.01.30:530][  7]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Art/RunnerFiles/Blueprints/Paused] ([1] browsable assets)...
+[2021.02.15-09.01.30:530][  7]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/RunnerFiles/Blueprints/Paused]
+[2021.02.15-09.01.30:543][  7]LogSavePackage: Moving 'D:/03_Unreal Projects/Github/DaylightRunner/DaylightRunner/Saved/Paused_Auto2159322914F83D036A350CAA06C944F31.tmp' to 'D:/03_Unreal Projects/Github/DaylightRunner/DaylightRunner/Saved/Autosaves/Game/Art/RunnerFiles/Blueprints/Paused_Auto2.uasset'
+[2021.02.15-09.01.30:543][  7]LogFileHelpers: Auto-saving content packages took 0.013
+[2021.02.15-09.01.31:111][ 69]BlueprintLog: New page: Compile Paused
+[2021.02.15-09.01.31:146][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2021.02.15-09.01.31:229][ 69]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/RunnerFiles/Blueprints/Paused" FILE="D:/03_Unreal Projects/Github/DaylightRunner/DaylightRunner/Content/Art/RunnerFiles/Blueprints/Paused.uasset" SILENT=true
+[2021.02.15-09.01.31:240][ 69]LogSavePackage: Moving 'D:/03_Unreal Projects/Github/DaylightRunner/DaylightRunner/Saved/PausedD3E1C6A44CBB2C63256236AECDFA5D72.tmp' to 'D:/03_Unreal Projects/Github/DaylightRunner/DaylightRunner/Content/Art/RunnerFiles/Blueprints/Paused.uasset'
+[2021.02.15-09.01.31:270][ 69]AssetCheck: New page: Asset Save: Paused
+[2021.02.15-09.01.31:270][ 69]LogContentValidation: Display: Validating WidgetBlueprint /Game/Art/RunnerFiles/Blueprints/Paused.Paused
+[2021.02.15-09.02.30:276][596]BlueprintLog: New page: Compile Paused
+[2021.02.15-09.02.30:329][596]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2021.02.15-09.02.30:396][596]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/RunnerFiles/Blueprints/Paused" FILE="D:/03_Unreal Projects/Github/DaylightRunner/DaylightRunner/Content/Art/RunnerFiles/Blueprints/Paused.uasset" SILENT=true
+[2021.02.15-09.02.30:409][596]LogSavePackage: Moving 'D:/03_Unreal Projects/Github/DaylightRunner/DaylightRunner/Saved/PausedD6D7EC4D4450B937C38B028EA937E674.tmp' to 'D:/03_Unreal Projects/Github/DaylightRunner/DaylightRunner/Content/Art/RunnerFiles/Blueprints/Paused.uasset'
+[2021.02.15-09.02.30:432][596]AssetCheck: New page: Asset Save: Paused
+[2021.02.15-09.02.30:432][596]LogContentValidation: Display: Validating WidgetBlueprint /Game/Art/RunnerFiles/Blueprints/Paused.Paused
+[2021.02.15-09.02.44:285][942]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.15-09.02.44:295][942]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.15-09.02.44:295][942]PIE: New page: PIE session: RunnerLevel (16 Feb 2021, 1:02:44 am)
+[2021.02.15-09.02.44:295][942]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_RunnerLevel
+[2021.02.15-09.02.44:298][942]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003142s)
+[2021.02.15-09.02.44:299][942]LogAIModule: Creating AISystem for world RunnerLevel
+[2021.02.15-09.02.44:300][942]LogPlayLevel: PIE: World Init took: (0.001121s)
+[2021.02.15-09.02.44:300][942]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/RunnerLevel.RunnerLevel to /Game/Maps/UEDPIE_0_RunnerLevel.RunnerLevel (0.004483s)
+[2021.02.15-09.02.44:334][942]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2021.02.15-09.02.44:335][942]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2021.02.15-09.02.44:335][942]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.15-09.02.44:335][942]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.15-09.02.44:335][942]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.15-09.02.44:335][942]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.15-09.02.44:335][942]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.15-09.02.44:335][942]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.15-09.02.44:335][942]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.15-09.02.44:335][942]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.15-09.02.44:336][942]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.15-09.02.44:336][942]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.15-09.02.44:340][942]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.15-09.02.44:340][942]LogAudioMixer: Display: 1: FrontRight
+[2021.02.15-09.02.44:352][942]LogAudioMixer: Display: Using Audio Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2021.02.15-09.02.44:353][942]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.15-09.02.44:353][942]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.15-09.02.44:353][942]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.15-09.02.44:354][942]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.15-09.02.44:354][942]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.02.15-09.02.44:354][942]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.02.15-09.02.44:365][942]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.02.15-09.02.44:365][942]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.02.15-09.02.44:365][942]LogInit: FAudioDevice initialized.
+[2021.02.15-09.02.44:365][942]LogAudio: Display: Audio Device (ID: 15) registered with world 'RunnerLevel'.
+[2021.02.15-09.02.44:375][942]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.02.15-09.02.44:376][942]LogWorld: Bringing World /Game/Maps/UEDPIE_0_RunnerLevel.RunnerLevel up for play (max tick rate 0) at 2021.02.15-17.02.44
+[2021.02.15-09.02.44:376][942]LogWorld: Bringing up level for play took: 0.000435
+[2021.02.15-09.02.44:376][942]LogOnline: OSS: Creating online subsystem instance for: :Context_32
+[2021.02.15-09.02.44:385][942]PIE: Server logged in
+[2021.02.15-09.02.44:386][942]PIE: Play in editor total start time 0.091 seconds.
+[2021.02.15-09.02.45:276][ 42]LogBlueprintUserMessages: [MasterTile_C_0] 15
+[2021.02.15-09.02.46:101][138]LogBlueprintUserMessages: [MasterTile_C_1] 30
+[2021.02.15-09.02.48:421][411]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.15-09.02.48:422][411]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_RunnerLevel
+[2021.02.15-09.02.48:422][411]LogWorld: UWorld::CleanupWorld for RunnerLevel, bSessionEnded=true, bCleanupResources=true
+[2021.02.15-09.02.48:422][411]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.15-09.02.48:434][411]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.15-09.02.48:439][411]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.15-09.02.48:468][411]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.02.15-09.02.48:469][411]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.15-09.02.48:470][411]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.15-09.02.48:482][411]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.15-09.02.48:487][411]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2021.02.15-09.02.48:510][412]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2021.02.15-09.02.49:885][564]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.15-09.02.49:894][564]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.15-09.02.49:894][564]PIE: New page: PIE session: RunnerLevel (16 Feb 2021, 1:02:49 am)
+[2021.02.15-09.02.49:895][564]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_RunnerLevel
+[2021.02.15-09.02.49:896][564]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001682s)
+[2021.02.15-09.02.49:897][564]LogAIModule: Creating AISystem for world RunnerLevel
+[2021.02.15-09.02.49:897][564]LogPlayLevel: PIE: World Init took: (0.000917s)
+[2021.02.15-09.02.49:897][564]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/RunnerLevel.RunnerLevel to /Game/Maps/UEDPIE_0_RunnerLevel.RunnerLevel (0.002726s)
+[2021.02.15-09.02.49:928][564]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2021.02.15-09.02.49:929][564]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2021.02.15-09.02.49:929][564]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.15-09.02.49:929][564]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.15-09.02.49:929][564]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.15-09.02.49:929][564]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.15-09.02.49:929][564]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.15-09.02.49:929][564]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.15-09.02.49:929][564]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.15-09.02.49:929][564]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.15-09.02.49:930][564]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.15-09.02.49:930][564]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.15-09.02.49:933][564]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.15-09.02.49:933][564]LogAudioMixer: Display: 1: FrontRight
+[2021.02.15-09.02.49:944][564]LogAudioMixer: Display: Using Audio Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2021.02.15-09.02.49:944][564]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.15-09.02.49:944][564]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.15-09.02.49:944][564]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.15-09.02.49:945][564]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.15-09.02.49:945][564]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.02.15-09.02.49:945][564]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.02.15-09.02.49:956][564]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.02.15-09.02.49:956][564]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.02.15-09.02.49:956][564]LogInit: FAudioDevice initialized.
+[2021.02.15-09.02.49:956][564]LogAudio: Display: Audio Device (ID: 16) registered with world 'RunnerLevel'.
+[2021.02.15-09.02.49:961][564]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.02.15-09.02.49:962][564]LogWorld: Bringing World /Game/Maps/UEDPIE_0_RunnerLevel.RunnerLevel up for play (max tick rate 0) at 2021.02.15-17.02.49
+[2021.02.15-09.02.49:962][564]LogWorld: Bringing up level for play took: 0.000347
+[2021.02.15-09.02.49:962][564]LogOnline: OSS: Creating online subsystem instance for: :Context_33
+[2021.02.15-09.02.49:969][564]PIE: Server logged in
+[2021.02.15-09.02.49:970][564]PIE: Play in editor total start time 0.076 seconds.
+[2021.02.15-09.02.50:879][672]LogBlueprintUserMessages: [MasterTile_C_0] 15
+[2021.02.15-09.02.51:706][768]LogBlueprintUserMessages: [MasterTile_C_1] 30
+[2021.02.15-09.02.52:524][866]LogBlueprintUserMessages: [MasterTile_C_2] 45
+[2021.02.15-09.02.53:330][962]LogBlueprintUserMessages: [MasterTile_C_3] 60
+[2021.02.15-09.02.53:582][984]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.15-09.02.53:582][984]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_RunnerLevel
+[2021.02.15-09.02.53:582][984]LogWorld: UWorld::CleanupWorld for RunnerLevel, bSessionEnded=true, bCleanupResources=true
+[2021.02.15-09.02.53:583][984]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.15-09.02.53:591][984]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.15-09.02.53:596][984]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.15-09.02.53:625][984]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.15-09.02.53:625][984]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.15-09.02.53:626][984]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.15-09.02.53:641][984]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2021.02.15-09.02.53:663][985]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2021.02.15-09.02.55:282][174]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.15-09.02.55:291][174]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.15-09.02.55:291][174]PIE: New page: PIE session: RunnerLevel (16 Feb 2021, 1:02:55 am)
+[2021.02.15-09.02.55:291][174]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_RunnerLevel
+[2021.02.15-09.02.55:293][174]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001619s)
+[2021.02.15-09.02.55:294][174]LogAIModule: Creating AISystem for world RunnerLevel
+[2021.02.15-09.02.55:294][174]LogPlayLevel: PIE: World Init took: (0.000845s)
+[2021.02.15-09.02.55:294][174]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/RunnerLevel.RunnerLevel to /Game/Maps/UEDPIE_0_RunnerLevel.RunnerLevel (0.002542s)
+[2021.02.15-09.02.55:325][174]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2021.02.15-09.02.55:326][174]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2021.02.15-09.02.55:326][174]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.15-09.02.55:326][174]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.15-09.02.55:326][174]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.15-09.02.55:326][174]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.15-09.02.55:326][174]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.15-09.02.55:326][174]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.15-09.02.55:326][174]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.15-09.02.55:326][174]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.15-09.02.55:327][174]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.15-09.02.55:327][174]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.15-09.02.55:330][174]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.15-09.02.55:330][174]LogAudioMixer: Display: 1: FrontRight
+[2021.02.15-09.02.55:341][174]LogAudioMixer: Display: Using Audio Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2021.02.15-09.02.55:341][174]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.15-09.02.55:342][174]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.15-09.02.55:342][174]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.15-09.02.55:342][174]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.15-09.02.55:342][174]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.02.15-09.02.55:342][174]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.02.15-09.02.55:353][174]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.02.15-09.02.55:353][174]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.02.15-09.02.55:353][174]LogInit: FAudioDevice initialized.
+[2021.02.15-09.02.55:353][174]LogAudio: Display: Audio Device (ID: 17) registered with world 'RunnerLevel'.
+[2021.02.15-09.02.55:358][174]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.02.15-09.02.55:359][174]LogWorld: Bringing World /Game/Maps/UEDPIE_0_RunnerLevel.RunnerLevel up for play (max tick rate 0) at 2021.02.15-17.02.55
+[2021.02.15-09.02.55:359][174]LogWorld: Bringing up level for play took: 0.000368
+[2021.02.15-09.02.55:359][174]LogOnline: OSS: Creating online subsystem instance for: :Context_34
+[2021.02.15-09.02.55:365][174]PIE: Server logged in
+[2021.02.15-09.02.55:366][174]PIE: Play in editor total start time 0.076 seconds.
+[2021.02.15-09.02.56:280][280]LogBlueprintUserMessages: [MasterTile_C_0] 15
+[2021.02.15-09.03.01:093][857]LogBlueprintUserMessages: [MasterTile_C_1] 30
+[2021.02.15-09.03.01:909][955]LogBlueprintUserMessages: [MasterTile_C_2] 45
+[2021.02.15-09.03.07:899][673]LogBlueprintUserMessages: [MasterTile_C_3] 60
+[2021.02.15-09.03.08:698][769]LogBlueprintUserMessages: [MasterTile_C_4] 75
+[2021.02.15-09.03.09:490][864]LogBlueprintUserMessages: [MasterTile_C_5] 90
+[2021.02.15-09.03.10:274][958]LogBlueprintUserMessages: [MasterTile_C_6] 105
+[2021.02.15-09.03.11:057][ 52]LogBlueprintUserMessages: [MasterTile_C_7] 120
+[2021.02.15-09.03.11:825][144]LogBlueprintUserMessages: [MasterTile_C_8] 135
+[2021.02.15-09.03.28:382][115]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.15-09.03.28:382][115]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_RunnerLevel
+[2021.02.15-09.03.28:382][115]LogWorld: UWorld::CleanupWorld for RunnerLevel, bSessionEnded=true, bCleanupResources=true
+[2021.02.15-09.03.28:383][115]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.15-09.03.28:387][115]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.15-09.03.28:394][115]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.15-09.03.28:431][115]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.15-09.03.28:431][115]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.15-09.03.28:432][115]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.15-09.03.28:456][115]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2021.02.15-09.03.28:480][116]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2021.02.15-09.03.53:324][ 25]LogWorld: UWorld::CleanupWorld for World_45, bSessionEnded=true, bCleanupResources=true
+[2021.02.15-09.03.53:325][ 25]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.15-09.04.24:788][114]BlueprintLog: New page: Compile Paused
+[2021.02.15-09.04.24:827][114]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2021.02.15-09.04.24:915][114]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/RunnerFiles/Blueprints/Paused" FILE="D:/03_Unreal Projects/Github/DaylightRunner/DaylightRunner/Content/Art/RunnerFiles/Blueprints/Paused.uasset" SILENT=true
+[2021.02.15-09.04.24:930][114]LogSavePackage: Moving 'D:/03_Unreal Projects/Github/DaylightRunner/DaylightRunner/Saved/Paused9876114044F815C838DEA8BE655E87F1.tmp' to 'D:/03_Unreal Projects/Github/DaylightRunner/DaylightRunner/Content/Art/RunnerFiles/Blueprints/Paused.uasset'
+[2021.02.15-09.04.24:949][114]AssetCheck: New page: Asset Save: Paused
+[2021.02.15-09.04.24:949][114]LogContentValidation: Display: Validating WidgetBlueprint /Game/Art/RunnerFiles/Blueprints/Paused.Paused
+[2021.02.15-09.04.27:386][367]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.15-09.04.27:396][367]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.15-09.04.27:396][367]PIE: New page: PIE session: RunnerLevel (16 Feb 2021, 1:04:27 am)
+[2021.02.15-09.04.27:431][367]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_RunnerLevel
+[2021.02.15-09.04.27:433][367]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001978s)
+[2021.02.15-09.04.27:434][367]LogAIModule: Creating AISystem for world RunnerLevel
+[2021.02.15-09.04.27:434][367]LogPlayLevel: PIE: World Init took: (0.000995s)
+[2021.02.15-09.04.27:434][367]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/RunnerLevel.RunnerLevel to /Game/Maps/UEDPIE_0_RunnerLevel.RunnerLevel (0.003128s)
+[2021.02.15-09.04.27:467][367]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2021.02.15-09.04.27:468][367]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2021.02.15-09.04.27:468][367]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.15-09.04.27:468][367]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.15-09.04.27:468][367]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.15-09.04.27:468][367]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.15-09.04.27:468][367]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.15-09.04.27:469][367]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.15-09.04.27:469][367]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.15-09.04.27:469][367]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.15-09.04.27:469][367]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.15-09.04.27:469][367]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.15-09.04.27:473][367]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.15-09.04.27:473][367]LogAudioMixer: Display: 1: FrontRight
+[2021.02.15-09.04.27:486][367]LogAudioMixer: Display: Using Audio Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2021.02.15-09.04.27:486][367]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.15-09.04.27:486][367]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.15-09.04.27:486][367]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.15-09.04.27:487][367]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.15-09.04.27:487][367]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.02.15-09.04.27:487][367]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.02.15-09.04.27:497][367]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.02.15-09.04.27:497][367]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.02.15-09.04.27:497][367]LogInit: FAudioDevice initialized.
+[2021.02.15-09.04.27:497][367]LogAudio: Display: Audio Device (ID: 18) registered with world 'RunnerLevel'.
+[2021.02.15-09.04.27:503][367]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.02.15-09.04.27:503][367]LogWorld: Bringing World /Game/Maps/UEDPIE_0_RunnerLevel.RunnerLevel up for play (max tick rate 0) at 2021.02.15-17.04.27
+[2021.02.15-09.04.27:504][367]LogWorld: Bringing up level for play took: 0.000342
+[2021.02.15-09.04.27:504][367]LogOnline: OSS: Creating online subsystem instance for: :Context_35
+[2021.02.15-09.04.27:511][367]PIE: Server logged in
+[2021.02.15-09.04.27:512][367]PIE: Play in editor total start time 0.116 seconds.
+[2021.02.15-09.04.28:371][467]LogBlueprintUserMessages: [MasterTile_C_0] 15
+[2021.02.15-09.04.32:903][  9]Cmd: restartlevel
+[2021.02.15-09.04.32:904][  9]LogNet: Browse: /Game/Maps/RunnerLevel?restart
+[2021.02.15-09.04.32:904][  9]LogLoad: LoadMap: /Game/Maps/RunnerLevel
+[2021.02.15-09.04.32:904][  9]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_RunnerLevel
+[2021.02.15-09.04.32:904][  9]LogWorld: UWorld::CleanupWorld for RunnerLevel, bSessionEnded=true, bCleanupResources=true
+[2021.02.15-09.04.32:905][  9]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.15-09.04.32:956][  9]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.02.15-09.04.32:961][  9]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2021.02.15-09.04.32:962][  9]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_RunnerLevel
+[2021.02.15-09.04.32:964][  9]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001651s)
+[2021.02.15-09.04.32:965][  9]LogAIModule: Creating AISystem for world RunnerLevel
+[2021.02.15-09.04.32:965][  9]LogPlayLevel: PIE: World Init took: (0.001062s)
+[2021.02.15-09.04.32:965][  9]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/RunnerLevel.RunnerLevel to /Game/Maps/UEDPIE_0_RunnerLevel.RunnerLevel (0.002812s)
+[2021.02.15-09.04.32:965][  9]LogAudio: Display: Audio Device (ID: 18) registered with world 'RunnerLevel'.
+[2021.02.15-09.04.32:965][  9]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.02.15-09.04.32:966][  9]LogWorld: Bringing World /Game/Maps/UEDPIE_0_RunnerLevel.RunnerLevel up for play (max tick rate 0) at 2021.02.15-17.04.32
+[2021.02.15-09.04.32:966][  9]LogWorld: Bringing up level for play took: 0.000505
+[2021.02.15-09.04.32:972][  9]LogLoad: Took 0.068564 seconds to LoadMap(/Game/Maps/UEDPIE_0_RunnerLevel)
+[2021.02.15-09.04.33:900][119]LogBlueprintUserMessages: [MasterTile_C_0] 15
+[2021.02.15-09.04.42:735][176]LogBlueprintUserMessages: [MasterTile_C_1] 30
+[2021.02.15-09.04.43:552][274]LogBlueprintUserMessages: [MasterTile_C_2] 45
+[2021.02.15-09.04.48:612][870]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.15-09.04.48:612][870]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_RunnerLevel
+[2021.02.15-09.04.48:612][870]LogWorld: UWorld::CleanupWorld for RunnerLevel, bSessionEnded=true, bCleanupResources=true
+[2021.02.15-09.04.48:612][870]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.15-09.04.48:619][870]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.15-09.04.48:625][870]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.15-09.04.48:650][870]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.15-09.04.48:652][870]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.15-09.04.48:653][870]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.15-09.04.48:669][870]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2021.02.15-09.04.48:690][871]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2021.02.15-09.05.16:247][333]BlueprintLog: New page: Compile Paused
+[2021.02.15-09.05.16:281][333]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2021.02.15-09.05.16:382][333]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/RunnerFiles/Blueprints/Paused" FILE="D:/03_Unreal Projects/Github/DaylightRunner/DaylightRunner/Content/Art/RunnerFiles/Blueprints/Paused.uasset" SILENT=true
+[2021.02.15-09.05.16:395][333]LogSavePackage: Moving 'D:/03_Unreal Projects/Github/DaylightRunner/DaylightRunner/Saved/PausedA2C792CA4760DD477A581BBB48B01D2E.tmp' to 'D:/03_Unreal Projects/Github/DaylightRunner/DaylightRunner/Content/Art/RunnerFiles/Blueprints/Paused.uasset'
+[2021.02.15-09.05.16:419][333]AssetCheck: New page: Asset Save: Paused
+[2021.02.15-09.05.16:419][333]LogContentValidation: Display: Validating WidgetBlueprint /Game/Art/RunnerFiles/Blueprints/Paused.Paused
+[2021.02.15-09.05.18:220][522]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.15-09.05.18:229][522]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.15-09.05.18:229][522]PIE: New page: PIE session: RunnerLevel (16 Feb 2021, 1:05:18 am)
+[2021.02.15-09.05.18:261][522]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_RunnerLevel
+[2021.02.15-09.05.18:263][522]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001590s)
+[2021.02.15-09.05.18:263][522]LogAIModule: Creating AISystem for world RunnerLevel
+[2021.02.15-09.05.18:263][522]LogPlayLevel: PIE: World Init took: (0.000837s)
+[2021.02.15-09.05.18:263][522]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/RunnerLevel.RunnerLevel to /Game/Maps/UEDPIE_0_RunnerLevel.RunnerLevel (0.002511s)
+[2021.02.15-09.05.18:294][522]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2021.02.15-09.05.18:295][522]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2021.02.15-09.05.18:296][522]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.15-09.05.18:296][522]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.15-09.05.18:296][522]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.15-09.05.18:296][522]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.15-09.05.18:296][522]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.15-09.05.18:296][522]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.15-09.05.18:296][522]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.15-09.05.18:296][522]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.15-09.05.18:296][522]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.15-09.05.18:296][522]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.15-09.05.18:300][522]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.15-09.05.18:300][522]LogAudioMixer: Display: 1: FrontRight
+[2021.02.15-09.05.18:311][522]LogAudioMixer: Display: Using Audio Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2021.02.15-09.05.18:311][522]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.15-09.05.18:311][522]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.15-09.05.18:311][522]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.15-09.05.18:312][522]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.15-09.05.18:312][522]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.02.15-09.05.18:312][522]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.02.15-09.05.18:322][522]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.02.15-09.05.18:322][522]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.02.15-09.05.18:322][522]LogInit: FAudioDevice initialized.
+[2021.02.15-09.05.18:322][522]LogAudio: Display: Audio Device (ID: 19) registered with world 'RunnerLevel'.
+[2021.02.15-09.05.18:328][522]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.02.15-09.05.18:329][522]LogWorld: Bringing World /Game/Maps/UEDPIE_0_RunnerLevel.RunnerLevel up for play (max tick rate 0) at 2021.02.15-17.05.18
+[2021.02.15-09.05.18:329][522]LogWorld: Bringing up level for play took: 0.000355
+[2021.02.15-09.05.18:329][522]LogOnline: OSS: Creating online subsystem instance for: :Context_36
+[2021.02.15-09.05.18:336][522]PIE: Server logged in
+[2021.02.15-09.05.18:337][522]PIE: Play in editor total start time 0.109 seconds.
+[2021.02.15-09.05.19:262][624]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.15-09.05.19:262][624]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_RunnerLevel
+[2021.02.15-09.05.19:262][624]LogWorld: UWorld::CleanupWorld for RunnerLevel, bSessionEnded=true, bCleanupResources=true
+[2021.02.15-09.05.19:262][624]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.15-09.05.19:268][624]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.15-09.05.19:273][624]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.15-09.05.19:300][624]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.02.15-09.05.19:300][624]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.15-09.05.19:301][624]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.15-09.05.19:313][624]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.15-09.05.19:317][624]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2021.02.15-09.05.19:341][625]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2021.02.15-09.05.20:755][784]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.15-09.05.20:764][784]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.15-09.05.20:764][784]PIE: New page: PIE session: RunnerLevel (16 Feb 2021, 1:05:20 am)
+[2021.02.15-09.05.20:765][784]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_RunnerLevel
+[2021.02.15-09.05.20:766][784]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001598s)
+[2021.02.15-09.05.20:767][784]LogAIModule: Creating AISystem for world RunnerLevel
+[2021.02.15-09.05.20:767][784]LogPlayLevel: PIE: World Init took: (0.000832s)
+[2021.02.15-09.05.20:767][784]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/RunnerLevel.RunnerLevel to /Game/Maps/UEDPIE_0_RunnerLevel.RunnerLevel (0.002504s)
+[2021.02.15-09.05.20:795][784]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2021.02.15-09.05.20:796][784]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2021.02.15-09.05.20:796][784]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.15-09.05.20:796][784]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.15-09.05.20:796][784]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.15-09.05.20:796][784]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.15-09.05.20:796][784]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.15-09.05.20:796][784]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.15-09.05.20:796][784]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.15-09.05.20:796][784]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.15-09.05.20:796][784]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.15-09.05.20:796][784]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.15-09.05.20:800][784]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.15-09.05.20:800][784]LogAudioMixer: Display: 1: FrontRight
+[2021.02.15-09.05.20:811][784]LogAudioMixer: Display: Using Audio Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2021.02.15-09.05.20:811][784]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.15-09.05.20:811][784]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.15-09.05.20:811][784]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.15-09.05.20:812][784]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.15-09.05.20:812][784]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.02.15-09.05.20:812][784]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.02.15-09.05.20:822][784]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.02.15-09.05.20:822][784]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.02.15-09.05.20:822][784]LogInit: FAudioDevice initialized.
+[2021.02.15-09.05.20:822][784]LogAudio: Display: Audio Device (ID: 20) registered with world 'RunnerLevel'.
+[2021.02.15-09.05.20:831][784]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.02.15-09.05.20:832][784]LogWorld: Bringing World /Game/Maps/UEDPIE_0_RunnerLevel.RunnerLevel up for play (max tick rate 0) at 2021.02.15-17.05.20
+[2021.02.15-09.05.20:832][784]LogWorld: Bringing up level for play took: 0.000347
+[2021.02.15-09.05.20:832][784]LogOnline: OSS: Creating online subsystem instance for: :Context_37
+[2021.02.15-09.05.20:839][784]PIE: Server logged in
+[2021.02.15-09.05.20:840][784]PIE: Play in editor total start time 0.076 seconds.
+[2021.02.15-09.05.21:751][888]LogBlueprintUserMessages: [MasterTile_C_0] 15
+[2021.02.15-09.05.22:578][986]LogBlueprintUserMessages: [MasterTile_C_1] 30
+[2021.02.15-09.05.24:488][215]LogBlueprintUserMessages: [MasterTile_C_2] 45
+[2021.02.15-09.05.25:300][309]LogBlueprintUserMessages: [MasterTile_C_3] 60
+[2021.02.15-09.05.26:103][405]LogBlueprintUserMessages: [MasterTile_C_4] 75
+[2021.02.15-09.05.26:482][446]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.15-09.05.26:482][446]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_RunnerLevel
+[2021.02.15-09.05.26:482][446]LogWorld: UWorld::CleanupWorld for RunnerLevel, bSessionEnded=true, bCleanupResources=true
+[2021.02.15-09.05.26:483][446]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.15-09.05.26:492][446]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.15-09.05.26:497][446]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.15-09.05.26:524][446]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.15-09.05.26:524][446]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.15-09.05.26:525][446]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.15-09.05.26:541][446]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2021.02.15-09.05.26:564][447]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2021.02.15-09.05.27:838][592]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.15-09.05.27:848][592]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.15-09.05.27:848][592]PIE: New page: PIE session: RunnerLevel (16 Feb 2021, 1:05:27 am)
+[2021.02.15-09.05.27:891][592]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_RunnerLevel
+[2021.02.15-09.05.27:893][592]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001781s)
+[2021.02.15-09.05.27:894][592]LogAIModule: Creating AISystem for world RunnerLevel
+[2021.02.15-09.05.27:894][592]LogPlayLevel: PIE: World Init took: (0.001127s)
+[2021.02.15-09.05.27:894][592]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/RunnerLevel.RunnerLevel to /Game/Maps/UEDPIE_0_RunnerLevel.RunnerLevel (0.003029s)
+[2021.02.15-09.05.27:922][592]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2021.02.15-09.05.27:923][592]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2021.02.15-09.05.27:923][592]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.15-09.05.27:923][592]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.15-09.05.27:923][592]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.15-09.05.27:923][592]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.15-09.05.27:923][592]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.15-09.05.27:923][592]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.15-09.05.27:923][592]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.15-09.05.27:923][592]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.15-09.05.27:924][592]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.15-09.05.27:924][592]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.15-09.05.27:927][592]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.15-09.05.27:927][592]LogAudioMixer: Display: 1: FrontRight
+[2021.02.15-09.05.27:938][592]LogAudioMixer: Display: Using Audio Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2021.02.15-09.05.27:939][592]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.15-09.05.27:939][592]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.15-09.05.27:939][592]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.15-09.05.27:939][592]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.15-09.05.27:939][592]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.02.15-09.05.27:939][592]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.02.15-09.05.27:950][592]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.02.15-09.05.27:950][592]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.02.15-09.05.27:950][592]LogInit: FAudioDevice initialized.
+[2021.02.15-09.05.27:950][592]LogAudio: Display: Audio Device (ID: 21) registered with world 'RunnerLevel'.
+[2021.02.15-09.05.27:957][592]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.02.15-09.05.27:957][592]LogWorld: Bringing World /Game/Maps/UEDPIE_0_RunnerLevel.RunnerLevel up for play (max tick rate 0) at 2021.02.15-17.05.27
+[2021.02.15-09.05.27:958][592]LogWorld: Bringing up level for play took: 0.000371
+[2021.02.15-09.05.27:958][592]LogOnline: OSS: Creating online subsystem instance for: :Context_38
+[2021.02.15-09.05.27:964][592]PIE: Server logged in
+[2021.02.15-09.05.27:965][592]PIE: Play in editor total start time 0.118 seconds.
+[2021.02.15-09.05.28:830][695]LogBlueprintUserMessages: [MasterTile_C_0] 15
+[2021.02.15-09.05.29:652][793]LogBlueprintUserMessages: [MasterTile_C_1] 30
+[2021.02.15-09.05.30:470][891]LogBlueprintUserMessages: [MasterTile_C_2] 45
+[2021.02.15-09.05.31:279][988]LogBlueprintUserMessages: [MasterTile_C_3] 60
+[2021.02.15-09.05.32:080][ 84]LogBlueprintUserMessages: [MasterTile_C_4] 75
+[2021.02.15-09.05.34:423][365]LogBlueprintUserMessages: [MasterTile_C_5] 90
+[2021.02.15-09.05.35:207][459]LogBlueprintUserMessages: [MasterTile_C_6] 105
+[2021.02.15-09.05.37:407][723]LogBlueprintUserMessages: [MasterTile_C_7] 120
+[2021.02.15-09.05.38:183][816]LogBlueprintUserMessages: [MasterTile_C_8] 135
+[2021.02.15-09.05.38:941][907]LogBlueprintUserMessages: [MasterTile_C_9] 150
+[2021.02.15-09.05.39:700][998]LogBlueprintUserMessages: [MasterTile_C_10] 165
+[2021.02.15-09.05.40:447][ 87]LogBlueprintUserMessages: [MasterTile_C_11] 180
+[2021.02.15-09.05.42:366][317]LogBlueprintUserMessages: [MasterTile_C_12] 195
+[2021.02.15-09.05.43:099][405]LogBlueprintUserMessages: [MasterTile_C_13] 210
+[2021.02.15-09.05.43:826][492]LogBlueprintUserMessages: [MasterTile_C_14] 225
+[2021.02.15-09.05.44:542][578]LogBlueprintUserMessages: [MasterTile_C_15] 240
+[2021.02.15-09.05.45:249][662]LogBlueprintUserMessages: [MasterTile_C_16] 255
+[2021.02.15-09.05.45:958][747]LogBlueprintUserMessages: [MasterTile_C_17] 270
+[2021.02.15-09.05.46:650][830]LogBlueprintUserMessages: [MasterTile_C_18] 285
+[2021.02.15-09.05.47:342][913]LogBlueprintUserMessages: [MasterTile_C_19] 300
+[2021.02.15-09.05.50:522][284]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.15-09.05.50:522][284]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_RunnerLevel
+[2021.02.15-09.05.50:522][284]LogWorld: UWorld::CleanupWorld for RunnerLevel, bSessionEnded=true, bCleanupResources=true
+[2021.02.15-09.05.50:523][284]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.15-09.05.50:530][284]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.15-09.05.50:536][284]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.15-09.05.50:562][284]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.02.15-09.05.50:564][284]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.15-09.05.50:565][284]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.15-09.05.50:577][284]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.15-09.05.50:582][284]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2021.02.15-09.05.50:607][285]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2021.02.15-09.10.36:843][481]BlueprintLog: New page: Compile Paused
+[2021.02.15-09.10.36:880][481]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2021.02.15-09.10.36:986][481]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/RunnerFiles/Blueprints/Paused" FILE="D:/03_Unreal Projects/Github/DaylightRunner/DaylightRunner/Content/Art/RunnerFiles/Blueprints/Paused.uasset" SILENT=true
+[2021.02.15-09.10.37:000][481]LogSavePackage: Moving 'D:/03_Unreal Projects/Github/DaylightRunner/DaylightRunner/Saved/PausedB34360FA49AFD57482B2E6B3E0AB1862.tmp' to 'D:/03_Unreal Projects/Github/DaylightRunner/DaylightRunner/Content/Art/RunnerFiles/Blueprints/Paused.uasset'
+[2021.02.15-09.10.37:025][481]AssetCheck: New page: Asset Save: Paused
+[2021.02.15-09.10.37:025][481]LogContentValidation: Display: Validating WidgetBlueprint /Game/Art/RunnerFiles/Blueprints/Paused.Paused
+[2021.02.15-09.10.38:216][616]BlueprintLog: New page: Compile GameOverScreen
+[2021.02.15-09.10.38:261][616]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2021.02.15-09.10.38:356][616]LogSavePackage: Moving 'D:/03_Unreal Projects/Github/DaylightRunner/DaylightRunner/Saved/GameOverScreen88AF9CE74BF7B1AEC186E783E2B77AA6.tmp' to 'D:/03_Unreal Projects/Github/DaylightRunner/DaylightRunner/Content/Art/RunnerFiles/Blueprints/GameOverScreen.uasset'
+[2021.02.15-09.10.38:373][616]AssetCheck: New page: Asset Save: GameOverScreen
+[2021.02.15-09.10.38:373][616]LogContentValidation: Display: Validating WidgetBlueprint /Game/Art/RunnerFiles/Blueprints/GameOverScreen.GameOverScreen
+[2021.02.15-09.10.56:659][880]BlueprintLog: New page: Compile GameOverScreen
+[2021.02.15-09.10.56:708][880]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2021.02.15-09.10.56:789][880]LogSavePackage: Moving 'D:/03_Unreal Projects/Github/DaylightRunner/DaylightRunner/Saved/GameOverScreen0A9BFC334996D809415A63A8575915BB.tmp' to 'D:/03_Unreal Projects/Github/DaylightRunner/DaylightRunner/Content/Art/RunnerFiles/Blueprints/GameOverScreen.uasset'
+[2021.02.15-09.10.56:804][880]AssetCheck: New page: Asset Save: GameOverScreen
+[2021.02.15-09.10.56:804][880]LogContentValidation: Display: Validating WidgetBlueprint /Game/Art/RunnerFiles/Blueprints/GameOverScreen.GameOverScreen
+[2021.02.15-09.11.13:777][518]BlueprintLog: New page: Compile GameOverScreen
+[2021.02.15-09.11.13:826][518]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2021.02.15-09.11.13:906][518]LogSavePackage: Moving 'D:/03_Unreal Projects/Github/DaylightRunner/DaylightRunner/Saved/GameOverScreenEE396D424B9D1E0B156BD98C2F732BAD.tmp' to 'D:/03_Unreal Projects/Github/DaylightRunner/DaylightRunner/Content/Art/RunnerFiles/Blueprints/GameOverScreen.uasset'
+[2021.02.15-09.11.13:923][518]AssetCheck: New page: Asset Save: GameOverScreen
+[2021.02.15-09.11.13:923][518]LogContentValidation: Display: Validating WidgetBlueprint /Game/Art/RunnerFiles/Blueprints/GameOverScreen.GameOverScreen
+[2021.02.15-09.11.20:659][308]BlueprintLog: New page: Compile Paused
+[2021.02.15-09.11.20:696][308]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2021.02.15-09.11.20:786][308]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/RunnerFiles/Blueprints/Paused" FILE="D:/03_Unreal Projects/Github/DaylightRunner/DaylightRunner/Content/Art/RunnerFiles/Blueprints/Paused.uasset" SILENT=true
+[2021.02.15-09.11.20:799][308]LogSavePackage: Moving 'D:/03_Unreal Projects/Github/DaylightRunner/DaylightRunner/Saved/Paused32A030534B12800981D6029825C4D9C5.tmp' to 'D:/03_Unreal Projects/Github/DaylightRunner/DaylightRunner/Content/Art/RunnerFiles/Blueprints/Paused.uasset'
+[2021.02.15-09.11.20:825][308]AssetCheck: New page: Asset Save: Paused
+[2021.02.15-09.11.20:825][308]LogContentValidation: Display: Validating WidgetBlueprint /Game/Art/RunnerFiles/Blueprints/Paused.Paused
+[2021.02.15-09.11.43:729][ 73]BlueprintLog: New page: Compile GameOverScreen
+[2021.02.15-09.11.43:773][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2021.02.15-09.11.43:840][ 73]LogSavePackage: Moving 'D:/03_Unreal Projects/Github/DaylightRunner/DaylightRunner/Saved/GameOverScreen69F3AEA74C789D9F08B674A5AD2A2858.tmp' to 'D:/03_Unreal Projects/Github/DaylightRunner/DaylightRunner/Content/Art/RunnerFiles/Blueprints/GameOverScreen.uasset'
+[2021.02.15-09.11.43:856][ 73]AssetCheck: New page: Asset Save: GameOverScreen
+[2021.02.15-09.11.43:856][ 73]LogContentValidation: Display: Validating WidgetBlueprint /Game/Art/RunnerFiles/Blueprints/GameOverScreen.GameOverScreen
+[2021.02.15-09.13.36:145][143]BlueprintLog: New page: Compile GameOverScreen
+[2021.02.15-09.13.36:196][143]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2021.02.15-09.13.36:292][143]LogSavePackage: Moving 'D:/03_Unreal Projects/Github/DaylightRunner/DaylightRunner/Saved/GameOverScreen437E9A0F42EAAE99DB6EA1A67F544AD9.tmp' to 'D:/03_Unreal Projects/Github/DaylightRunner/DaylightRunner/Content/Art/RunnerFiles/Blueprints/GameOverScreen.uasset'
+[2021.02.15-09.13.36:309][143]AssetCheck: New page: Asset Save: GameOverScreen
+[2021.02.15-09.13.36:309][143]LogContentValidation: Display: Validating WidgetBlueprint /Game/Art/RunnerFiles/Blueprints/GameOverScreen.GameOverScreen
+[2021.02.15-09.14.03:994][839]BlueprintLog: New page: Compile GameOverScreen
+[2021.02.15-09.14.04:044][839]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2021.02.15-09.14.04:094][839]LogSavePackage: Moving 'D:/03_Unreal Projects/Github/DaylightRunner/DaylightRunner/Saved/GameOverScreenFD1B96C74DA2A002829842B9425DB3BE.tmp' to 'D:/03_Unreal Projects/Github/DaylightRunner/DaylightRunner/Content/Art/RunnerFiles/Blueprints/GameOverScreen.uasset'
+[2021.02.15-09.14.04:106][839]AssetCheck: New page: Asset Save: GameOverScreen
+[2021.02.15-09.14.04:106][839]LogContentValidation: Display: Validating WidgetBlueprint /Game/Art/RunnerFiles/Blueprints/GameOverScreen.GameOverScreen
+[2021.02.15-09.14.46:203][318]BlueprintLog: New page: Compile GameOverScreen
+[2021.02.15-09.14.46:254][318]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2021.02.15-09.14.46:311][318]LogSavePackage: Moving 'D:/03_Unreal Projects/Github/DaylightRunner/DaylightRunner/Saved/GameOverScreen5C4EAFCC4A640E997FB8BA96ADD29E12.tmp' to 'D:/03_Unreal Projects/Github/DaylightRunner/DaylightRunner/Content/Art/RunnerFiles/Blueprints/GameOverScreen.uasset'
+[2021.02.15-09.14.46:326][318]AssetCheck: New page: Asset Save: GameOverScreen
+[2021.02.15-09.14.46:326][318]LogContentValidation: Display: Validating WidgetBlueprint /Game/Art/RunnerFiles/Blueprints/GameOverScreen.GameOverScreen
+[2021.02.15-09.14.51:229][666]BlueprintLog: New page: Compile GameOverScreen
+[2021.02.15-09.14.51:279][666]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2021.02.15-09.14.57:462][870]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.15-09.14.57:471][870]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.15-09.14.57:471][870]PIE: New page: PIE session: RunnerLevel (16 Feb 2021, 1:14:57 am)
+[2021.02.15-09.14.57:511][870]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_RunnerLevel
+[2021.02.15-09.14.57:513][870]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001770s)
+[2021.02.15-09.14.57:514][870]LogAIModule: Creating AISystem for world RunnerLevel
+[2021.02.15-09.14.57:514][870]LogPlayLevel: PIE: World Init took: (0.001030s)
+[2021.02.15-09.14.57:514][870]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/RunnerLevel.RunnerLevel to /Game/Maps/UEDPIE_0_RunnerLevel.RunnerLevel (0.002896s)
+[2021.02.15-09.14.57:543][870]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2021.02.15-09.14.57:544][870]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2021.02.15-09.14.57:545][870]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.15-09.14.57:545][870]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.15-09.14.57:545][870]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.15-09.14.57:545][870]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.15-09.14.57:545][870]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.15-09.14.57:545][870]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.15-09.14.57:545][870]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.15-09.14.57:545][870]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.15-09.14.57:545][870]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.15-09.14.57:545][870]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.15-09.14.57:549][870]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.15-09.14.57:549][870]LogAudioMixer: Display: 1: FrontRight
+[2021.02.15-09.14.57:560][870]LogAudioMixer: Display: Using Audio Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2021.02.15-09.14.57:560][870]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.15-09.14.57:560][870]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.15-09.14.57:560][870]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.15-09.14.57:560][870]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.15-09.14.57:561][870]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.02.15-09.14.57:561][870]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.02.15-09.14.57:571][870]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.02.15-09.14.57:571][870]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.02.15-09.14.57:571][870]LogInit: FAudioDevice initialized.
+[2021.02.15-09.14.57:571][870]LogAudio: Display: Audio Device (ID: 22) registered with world 'RunnerLevel'.
+[2021.02.15-09.14.57:575][870]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.02.15-09.14.57:575][870]LogWorld: Bringing World /Game/Maps/UEDPIE_0_RunnerLevel.RunnerLevel up for play (max tick rate 0) at 2021.02.15-17.14.57
+[2021.02.15-09.14.57:576][870]LogWorld: Bringing up level for play took: 0.000345
+[2021.02.15-09.14.57:576][870]LogOnline: OSS: Creating online subsystem instance for: :Context_39
+[2021.02.15-09.14.57:582][870]PIE: Server logged in
+[2021.02.15-09.14.57:583][870]PIE: Play in editor total start time 0.113 seconds.
+[2021.02.15-09.14.58:450][971]LogBlueprintUserMessages: [MasterTile_C_0] 15
+[2021.02.15-09.14.59:379][ 82]LogBlueprintUserMessages: [MasterTile_C_1] 30
+[2021.02.15-09.15.04:312][669]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.15-09.15.04:312][669]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_RunnerLevel
+[2021.02.15-09.15.04:312][669]LogWorld: UWorld::CleanupWorld for RunnerLevel, bSessionEnded=true, bCleanupResources=true
+[2021.02.15-09.15.04:312][669]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.15-09.15.04:320][669]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.15-09.15.04:326][669]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.15-09.15.04:352][669]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.15-09.15.04:353][669]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.15-09.15.04:354][669]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.15-09.15.04:371][669]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2021.02.15-09.15.04:394][670]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2021.02.15-09.15.05:754][822]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.15-09.15.05:762][822]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.15-09.15.05:762][822]PIE: New page: PIE session: RunnerLevel (16 Feb 2021, 1:15:05 am)
+[2021.02.15-09.15.05:763][822]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_RunnerLevel
+[2021.02.15-09.15.05:764][822]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001598s)
+[2021.02.15-09.15.05:765][822]LogAIModule: Creating AISystem for world RunnerLevel
+[2021.02.15-09.15.05:765][822]LogPlayLevel: PIE: World Init took: (0.000891s)
+[2021.02.15-09.15.05:765][822]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/RunnerLevel.RunnerLevel to /Game/Maps/UEDPIE_0_RunnerLevel.RunnerLevel (0.002569s)
+[2021.02.15-09.15.05:794][822]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2021.02.15-09.15.05:795][822]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2021.02.15-09.15.05:795][822]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.15-09.15.05:795][822]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.15-09.15.05:795][822]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.15-09.15.05:796][822]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.15-09.15.05:796][822]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.15-09.15.05:796][822]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.15-09.15.05:796][822]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.15-09.15.05:796][822]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.15-09.15.05:796][822]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.15-09.15.05:796][822]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.15-09.15.05:800][822]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.15-09.15.05:800][822]LogAudioMixer: Display: 1: FrontRight
+[2021.02.15-09.15.05:811][822]LogAudioMixer: Display: Using Audio Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2021.02.15-09.15.05:811][822]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.15-09.15.05:811][822]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.15-09.15.05:811][822]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.15-09.15.05:811][822]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.15-09.15.05:811][822]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.02.15-09.15.05:811][822]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.02.15-09.15.05:821][822]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.02.15-09.15.05:821][822]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.02.15-09.15.05:821][822]LogInit: FAudioDevice initialized.
+[2021.02.15-09.15.05:821][822]LogAudio: Display: Audio Device (ID: 23) registered with world 'RunnerLevel'.
+[2021.02.15-09.15.05:827][822]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.02.15-09.15.05:828][822]LogWorld: Bringing World /Game/Maps/UEDPIE_0_RunnerLevel.RunnerLevel up for play (max tick rate 0) at 2021.02.15-17.15.05
+[2021.02.15-09.15.05:828][822]LogWorld: Bringing up level for play took: 0.000340
+[2021.02.15-09.15.05:828][822]LogOnline: OSS: Creating online subsystem instance for: :Context_40
+[2021.02.15-09.15.05:834][822]PIE: Server logged in
+[2021.02.15-09.15.05:835][822]PIE: Play in editor total start time 0.074 seconds.
+[2021.02.15-09.15.06:749][929]LogBlueprintUserMessages: [MasterTile_C_0] 15
+[2021.02.15-09.15.07:579][ 28]LogBlueprintUserMessages: [MasterTile_C_1] 30
+[2021.02.15-09.15.08:396][126]LogBlueprintUserMessages: [MasterTile_C_2] 45
+[2021.02.15-09.15.09:205][223]LogBlueprintUserMessages: [MasterTile_C_3] 60
+[2021.02.15-09.15.12:763][648]Cmd: restartlevel
+[2021.02.15-09.15.12:764][648]LogNet: Browse: /Game/Maps/RunnerLevel?restart
+[2021.02.15-09.15.12:764][648]LogLoad: LoadMap: /Game/Maps/RunnerLevel
+[2021.02.15-09.15.12:764][648]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_RunnerLevel
+[2021.02.15-09.15.12:765][648]LogWorld: UWorld::CleanupWorld for RunnerLevel, bSessionEnded=true, bCleanupResources=true
+[2021.02.15-09.15.12:765][648]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.15-09.15.12:828][648]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.02.15-09.15.12:831][648]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2021.02.15-09.15.12:833][648]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_RunnerLevel
+[2021.02.15-09.15.12:835][648]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001643s)
+[2021.02.15-09.15.12:836][648]LogAIModule: Creating AISystem for world RunnerLevel
+[2021.02.15-09.15.12:836][648]LogPlayLevel: PIE: World Init took: (0.000894s)
+[2021.02.15-09.15.12:836][648]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/RunnerLevel.RunnerLevel to /Game/Maps/UEDPIE_0_RunnerLevel.RunnerLevel (0.002632s)
+[2021.02.15-09.15.12:836][648]LogAudio: Display: Audio Device (ID: 23) registered with world 'RunnerLevel'.
+[2021.02.15-09.15.12:836][648]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.02.15-09.15.12:836][648]LogWorld: Bringing World /Game/Maps/UEDPIE_0_RunnerLevel.RunnerLevel up for play (max tick rate 0) at 2021.02.15-17.15.12
+[2021.02.15-09.15.12:836][648]LogWorld: Bringing up level for play took: 0.000241
+[2021.02.15-09.15.12:843][648]LogLoad: Took 0.078460 seconds to LoadMap(/Game/Maps/UEDPIE_0_RunnerLevel)
+[2021.02.15-09.15.13:755][756]LogBlueprintUserMessages: [MasterTile_C_0] 15
+[2021.02.15-09.15.16:356][ 68]LogBlueprintUserMessages: [MasterTile_C_1] 30
+[2021.02.15-09.15.17:173][166]LogBlueprintUserMessages: [MasterTile_C_2] 45
+[2021.02.15-09.15.18:074][245]LogBlueprintUserMessages: [MasterTile_C_3] 60
+[2021.02.15-09.15.18:875][341]LogBlueprintUserMessages: [MasterTile_C_4] 75
+[2021.02.15-09.15.19:311][384]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.15-09.15.19:311][384]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_RunnerLevel
+[2021.02.15-09.15.19:312][384]LogWorld: UWorld::CleanupWorld for RunnerLevel, bSessionEnded=true, bCleanupResources=true
+[2021.02.15-09.15.19:312][384]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.15-09.15.19:331][384]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.15-09.15.19:337][384]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.15-09.15.19:365][384]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.15-09.15.19:366][384]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.15-09.15.19:367][384]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.15-09.15.19:382][384]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2021.02.15-09.15.19:407][385]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2021.02.15-09.15.20:846][544]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.15-09.15.20:855][544]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.15-09.15.20:855][544]PIE: New page: PIE session: RunnerLevel (16 Feb 2021, 1:15:20 am)
+[2021.02.15-09.15.20:891][544]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_RunnerLevel
+[2021.02.15-09.15.20:893][544]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001638s)
+[2021.02.15-09.15.20:893][544]LogAIModule: Creating AISystem for world RunnerLevel
+[2021.02.15-09.15.20:894][544]LogPlayLevel: PIE: World Init took: (0.001030s)
+[2021.02.15-09.15.20:894][544]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/RunnerLevel.RunnerLevel to /Game/Maps/UEDPIE_0_RunnerLevel.RunnerLevel (0.002759s)
+[2021.02.15-09.15.20:922][544]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2021.02.15-09.15.20:923][544]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2021.02.15-09.15.20:923][544]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.15-09.15.20:923][544]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.15-09.15.20:923][544]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.15-09.15.20:923][544]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.15-09.15.20:923][544]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.15-09.15.20:923][544]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.15-09.15.20:923][544]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.15-09.15.20:923][544]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.15-09.15.20:924][544]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.15-09.15.20:924][544]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.15-09.15.20:927][544]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.15-09.15.20:927][544]LogAudioMixer: Display: 1: FrontRight
+[2021.02.15-09.15.20:938][544]LogAudioMixer: Display: Using Audio Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2021.02.15-09.15.20:939][544]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.15-09.15.20:939][544]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.15-09.15.20:939][544]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.15-09.15.20:939][544]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.15-09.15.20:939][544]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.02.15-09.15.20:939][544]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.02.15-09.15.20:949][544]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.02.15-09.15.20:949][544]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.02.15-09.15.20:949][544]LogInit: FAudioDevice initialized.
+[2021.02.15-09.15.20:949][544]LogAudio: Display: Audio Device (ID: 24) registered with world 'RunnerLevel'.
+[2021.02.15-09.15.20:959][544]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.02.15-09.15.20:959][544]LogWorld: Bringing World /Game/Maps/UEDPIE_0_RunnerLevel.RunnerLevel up for play (max tick rate 0) at 2021.02.15-17.15.20
+[2021.02.15-09.15.20:960][544]LogWorld: Bringing up level for play took: 0.000337
+[2021.02.15-09.15.20:960][544]LogOnline: OSS: Creating online subsystem instance for: :Context_41
+[2021.02.15-09.15.20:967][544]PIE: Server logged in
+[2021.02.15-09.15.20:968][544]PIE: Play in editor total start time 0.114 seconds.
+[2021.02.15-09.15.21:832][645]LogBlueprintUserMessages: [MasterTile_C_0] 15
+[2021.02.15-09.15.43:246][161]Cmd: restartlevel
+[2021.02.15-09.15.43:246][161]LogNet: Browse: /Game/Maps/RunnerLevel?restart
+[2021.02.15-09.15.43:246][161]LogLoad: LoadMap: /Game/Maps/RunnerLevel
+[2021.02.15-09.15.43:246][161]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_RunnerLevel
+[2021.02.15-09.15.43:247][161]LogWorld: UWorld::CleanupWorld for RunnerLevel, bSessionEnded=true, bCleanupResources=true
+[2021.02.15-09.15.43:247][161]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.15-09.15.43:307][161]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.02.15-09.15.43:311][161]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2021.02.15-09.15.43:312][161]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_RunnerLevel
+[2021.02.15-09.15.43:314][161]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001713s)
+[2021.02.15-09.15.43:315][161]LogAIModule: Creating AISystem for world RunnerLevel
+[2021.02.15-09.15.43:315][161]LogPlayLevel: PIE: World Init took: (0.000928s)
+[2021.02.15-09.15.43:315][161]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/RunnerLevel.RunnerLevel to /Game/Maps/UEDPIE_0_RunnerLevel.RunnerLevel (0.002739s)
+[2021.02.15-09.15.43:315][161]LogAudio: Display: Audio Device (ID: 24) registered with world 'RunnerLevel'.
+[2021.02.15-09.15.43:315][161]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.02.15-09.15.43:316][161]LogWorld: Bringing World /Game/Maps/UEDPIE_0_RunnerLevel.RunnerLevel up for play (max tick rate 0) at 2021.02.15-17.15.43
+[2021.02.15-09.15.43:316][161]LogWorld: Bringing up level for play took: 0.000243
+[2021.02.15-09.15.43:322][161]LogLoad: Took 0.076002 seconds to LoadMap(/Game/Maps/UEDPIE_0_RunnerLevel)
+[2021.02.15-09.15.44:240][266]LogBlueprintUserMessages: [MasterTile_C_0] 15
+[2021.02.15-09.15.45:067][362]LogBlueprintUserMessages: [MasterTile_C_1] 30
+[2021.02.15-09.15.47:060][601]LogBlueprintUserMessages: [MasterTile_C_2] 45
+[2021.02.15-09.15.47:869][698]LogBlueprintUserMessages: [MasterTile_C_3] 60
+[2021.02.15-09.15.48:668][794]LogBlueprintUserMessages: [MasterTile_C_4] 75
+[2021.02.15-09.15.49:466][873]LogBlueprintUserMessages: [MasterTile_C_5] 90
+[2021.02.15-09.15.55:738][549]Cmd: restartlevel
+[2021.02.15-09.15.55:738][549]LogNet: Browse: /Game/Maps/RunnerLevel?restart
+[2021.02.15-09.15.55:738][549]LogLoad: LoadMap: /Game/Maps/RunnerLevel
+[2021.02.15-09.15.55:738][549]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_RunnerLevel
+[2021.02.15-09.15.55:739][549]LogWorld: UWorld::CleanupWorld for RunnerLevel, bSessionEnded=true, bCleanupResources=true
+[2021.02.15-09.15.55:739][549]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.15-09.15.55:789][549]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.02.15-09.15.55:793][549]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2021.02.15-09.15.55:796][549]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_RunnerLevel
+[2021.02.15-09.15.55:798][549]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001711s)
+[2021.02.15-09.15.55:798][549]LogAIModule: Creating AISystem for world RunnerLevel
+[2021.02.15-09.15.55:798][549]LogPlayLevel: PIE: World Init took: (0.000899s)
+[2021.02.15-09.15.55:798][549]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/RunnerLevel.RunnerLevel to /Game/Maps/UEDPIE_0_RunnerLevel.RunnerLevel (0.002710s)
+[2021.02.15-09.15.55:799][549]LogAudio: Display: Audio Device (ID: 24) registered with world 'RunnerLevel'.
+[2021.02.15-09.15.55:799][549]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.02.15-09.15.55:799][549]LogWorld: Bringing World /Game/Maps/UEDPIE_0_RunnerLevel.RunnerLevel up for play (max tick rate 0) at 2021.02.15-17.15.55
+[2021.02.15-09.15.55:799][549]LogWorld: Bringing up level for play took: 0.000232
+[2021.02.15-09.15.55:806][549]LogLoad: Took 0.067275 seconds to LoadMap(/Game/Maps/UEDPIE_0_RunnerLevel)
+[2021.02.15-09.15.56:734][658]LogBlueprintUserMessages: [MasterTile_C_0] 15
+[2021.02.15-09.15.57:560][757]LogBlueprintUserMessages: [MasterTile_C_1] 30
+[2021.02.15-09.15.58:376][855]LogBlueprintUserMessages: [MasterTile_C_2] 45
+[2021.02.15-09.15.59:268][962]LogBlueprintUserMessages: [MasterTile_C_3] 60
+[2021.02.15-09.16.00:169][ 70]LogBlueprintUserMessages: [MasterTile_C_4] 75
+[2021.02.15-09.16.01:161][189]LogBlueprintUserMessages: [MasterTile_C_5] 90
+[2021.02.15-09.16.02:081][299]LogBlueprintUserMessages: [MasterTile_C_6] 105
+[2021.02.15-09.16.03:065][417]LogBlueprintUserMessages: [MasterTile_C_7] 120
+[2021.02.15-09.16.04:073][538]LogBlueprintUserMessages: [MasterTile_C_8] 135
+[2021.02.15-09.16.04:999][649]LogBlueprintUserMessages: [MasterTile_C_9] 150
+[2021.02.15-09.16.05:925][760]LogBlueprintUserMessages: [MasterTile_C_10] 165
+[2021.02.15-09.16.06:851][871]LogBlueprintUserMessages: [MasterTile_C_11] 180
+[2021.02.15-09.16.07:644][965]LogBlueprintUserMessages: [MasterTile_C_12] 195
+[2021.02.15-09.16.08:378][ 53]LogBlueprintUserMessages: [MasterTile_C_13] 210
+[2021.02.15-09.16.09:104][140]LogBlueprintUserMessages: [MasterTile_C_14] 225
+[2021.02.15-09.16.09:820][226]LogBlueprintUserMessages: [MasterTile_C_15] 240
+[2021.02.15-09.16.10:616][321]LogBlueprintUserMessages: [MasterTile_C_16] 255
+[2021.02.15-09.16.11:404][415]LogBlueprintUserMessages: [MasterTile_C_17] 270
+[2021.02.15-09.16.12:205][511]LogBlueprintUserMessages: [MasterTile_C_18] 285
+[2021.02.15-09.16.12:913][596]LogBlueprintUserMessages: [MasterTile_C_19] 300
+[2021.02.15-09.16.13:663][686]LogBlueprintUserMessages: [MasterTile_C_20] 315
+[2021.02.15-09.16.14:423][777]LogBlueprintUserMessages: [MasterTile_C_21] 330
+[2021.02.15-09.16.15:215][872]LogBlueprintUserMessages: [MasterTile_C_22] 345
+[2021.02.15-09.16.15:923][957]LogBlueprintUserMessages: [MasterTile_C_23] 360
+[2021.02.15-09.16.16:575][ 35]LogBlueprintUserMessages: [MasterTile_C_24] 375
+[2021.02.15-09.16.17:233][114]LogBlueprintUserMessages: [MasterTile_C_25] 390
+[2021.02.15-09.16.18:008][207]LogBlueprintUserMessages: [MasterTile_C_26] 405
+[2021.02.15-09.16.18:849][308]LogBlueprintUserMessages: [MasterTile_C_27] 420
+[2021.02.15-09.16.19:521][386]LogBlueprintUserMessages: [MasterTile_C_28] 435
+[2021.02.15-09.16.20:204][468]LogBlueprintUserMessages: [MasterTile_C_29] 450
+[2021.02.15-09.16.20:980][561]LogBlueprintUserMessages: [MasterTile_C_30] 465
+[2021.02.15-09.16.21:798][659]LogBlueprintUserMessages: [MasterTile_C_31] 480
+[2021.02.15-09.16.22:482][741]LogBlueprintUserMessages: [MasterTile_C_32] 495
+[2021.02.15-09.16.23:115][817]LogBlueprintUserMessages: [MasterTile_C_33] 510
+[2021.02.15-09.16.23:882][909]LogBlueprintUserMessages: [MasterTile_C_34] 525
+[2021.02.15-09.16.24:498][983]LogBlueprintUserMessages: [MasterTile_C_35] 540
+[2021.02.15-09.16.25:082][ 53]LogBlueprintUserMessages: [MasterTile_C_36] 555
+[2021.02.15-09.16.25:657][122]LogBlueprintUserMessages: [MasterTile_C_37] 570
+[2021.02.15-09.16.26:225][190]LogBlueprintUserMessages: [MasterTile_C_38] 585
+[2021.02.15-09.16.26:791][258]LogBlueprintUserMessages: [MasterTile_C_39] 600
+[2021.02.15-09.16.27:510][344]LogBlueprintUserMessages: [MasterTile_C_40] 615
+[2021.02.15-09.16.28:239][431]LogBlueprintUserMessages: [MasterTile_C_41] 630
+[2021.02.15-09.16.28:799][498]LogBlueprintUserMessages: [MasterTile_C_42] 645
+[2021.02.15-09.16.29:440][575]LogBlueprintUserMessages: [MasterTile_C_43] 660
+[2021.02.15-09.16.30:006][642]LogBlueprintUserMessages: [MasterTile_C_44] 675
+[2021.02.15-09.16.30:589][712]LogBlueprintUserMessages: [MasterTile_C_45] 690
+[2021.02.15-09.16.31:206][786]LogBlueprintUserMessages: [MasterTile_C_46] 705
+[2021.02.15-09.16.31:814][859]LogBlueprintUserMessages: [MasterTile_C_47] 720
+[2021.02.15-09.16.32:448][935]LogBlueprintUserMessages: [MasterTile_C_48] 735
+[2021.02.15-09.16.33:057][  8]LogBlueprintUserMessages: [MasterTile_C_49] 750
+[2021.02.15-09.16.33:656][ 80]LogBlueprintUserMessages: [MasterTile_C_50] 765
+[2021.02.15-09.16.34:257][152]LogBlueprintUserMessages: [MasterTile_C_51] 780
+[2021.02.15-09.16.34:840][222]LogBlueprintUserMessages: [MasterTile_C_52] 795
+[2021.02.15-09.16.35:441][294]LogBlueprintUserMessages: [MasterTile_C_53] 810
+[2021.02.15-09.16.35:999][361]LogBlueprintUserMessages: [MasterTile_C_54] 825
+[2021.02.15-09.16.36:566][429]LogBlueprintUserMessages: [MasterTile_C_55] 840
+[2021.02.15-09.16.37:107][494]LogBlueprintUserMessages: [MasterTile_C_56] 855
+[2021.02.15-09.16.37:721][567]LogBlueprintUserMessages: [MasterTile_C_57] 870
+[2021.02.15-09.16.38:265][632]LogBlueprintUserMessages: [MasterTile_C_58] 885
+[2021.02.15-09.16.38:859][699]LogBlueprintUserMessages: [MasterTile_C_59] 900
+[2021.02.15-09.16.39:393][763]LogBlueprintUserMessages: [MasterTile_C_60] 915
+[2021.02.15-09.16.39:900][824]LogBlueprintUserMessages: [MasterTile_C_61] 930
+[2021.02.15-09.16.40:519][898]LogBlueprintUserMessages: [MasterTile_C_62] 945
+[2021.02.15-09.16.41:070][964]LogBlueprintUserMessages: [MasterTile_C_63] 960
+[2021.02.15-09.16.43:592][257]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.15-09.16.43:592][257]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_RunnerLevel
+[2021.02.15-09.16.43:592][257]LogWorld: UWorld::CleanupWorld for RunnerLevel, bSessionEnded=true, bCleanupResources=true
+[2021.02.15-09.16.43:592][257]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.15-09.16.43:610][257]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.15-09.16.43:616][257]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.15-09.16.43:643][257]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.15-09.16.43:643][257]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.15-09.16.43:644][257]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.15-09.16.43:660][257]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2021.02.15-09.16.43:687][258]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2021.02.15-09.54.56:056][944]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2021.02.15-17.44.18:580][707]LogSlate: Window 'Project Settings' being destroyed
+[2021.02.15-17.44.18:584][707]LogSlate: Window 'Project Settings' being destroyed
+[2021.02.15-17.44.31:123][364]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2021.02.15-17.45.33:209][831]LogSlate: Window 'Project Settings' being destroyed
+[2021.02.15-17.45.33:212][831]LogSlate: Window 'Project Settings' being destroyed
+[2021.02.15-17.46.44:378][352]LogUObjectHash: Compacting FUObjectHashTables data took   8.43ms
+[2021.02.15-17.46.44:383][352]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/RunnerLevel' took 0.105
+[2021.02.15-17.46.44:384][352]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2021.02.15-17.46.44:398][352]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2021.02.15-17.46.44:398][352]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2021.02.15-17.46.44:451][352]LogSavePackage: Moving 'D:/03_Unreal Projects/Github/DaylightRunner/DaylightRunner/Saved/ThirdPersonCharacter_Auto3F262B84F43B96C3C83B45FBBF6FE7371.tmp' to 'D:/03_Unreal Projects/Github/DaylightRunner/DaylightRunner/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto3.uasset'
+[2021.02.15-17.46.44:451][352]LogFileHelpers: Auto-saving content packages took 0.068
+[2021.02.15-17.46.46:847][613]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2021.02.15-17.46.46:917][613]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2021.02.15-17.46.47:023][613]LogSavePackage: Moving 'D:/03_Unreal Projects/Github/DaylightRunner/DaylightRunner/Saved/ThirdPersonCharacterDA194CB74C61FDABFEFF499316B1F700.tmp' to 'D:/03_Unreal Projects/Github/DaylightRunner/DaylightRunner/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2021.02.15-17.46.47:037][613]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2021.02.15-17.46.47:037][613]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.02.15-17.46.54:147][386]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2021.02.15-17.46.54:208][386]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2021.02.15-17.46.54:306][386]LogSavePackage: Moving 'D:/03_Unreal Projects/Github/DaylightRunner/DaylightRunner/Saved/ThirdPersonCharacter5DDBCE754361AEC92576B69B3F240FA4.tmp' to 'D:/03_Unreal Projects/Github/DaylightRunner/DaylightRunner/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2021.02.15-17.46.54:318][386]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2021.02.15-17.46.54:318][386]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.02.15-17.48.27:874][138]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2021.02.15-17.48.27:937][138]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2021.02.15-17.48.28:041][138]LogSavePackage: Moving 'D:/03_Unreal Projects/Github/DaylightRunner/DaylightRunner/Saved/ThirdPersonCharacter8A4CAED849CDAA13E779AAA87328A49A.tmp' to 'D:/03_Unreal Projects/Github/DaylightRunner/DaylightRunner/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2021.02.15-17.48.28:053][138]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2021.02.15-17.48.28:053][138]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.02.15-17.48.42:541][558]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.15-17.48.42:551][558]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.15-17.48.42:551][558]PIE: New page: PIE session: RunnerLevel (16 Feb 2021, 9:48:42 am)
+[2021.02.15-17.48.42:583][558]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_RunnerLevel
+[2021.02.15-17.48.42:586][558]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002608s)
+[2021.02.15-17.48.42:587][558]LogAIModule: Creating AISystem for world RunnerLevel
+[2021.02.15-17.48.42:587][558]LogPlayLevel: PIE: World Init took: (0.001160s)
+[2021.02.15-17.48.42:587][558]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/RunnerLevel.RunnerLevel to /Game/Maps/UEDPIE_0_RunnerLevel.RunnerLevel (0.004023s)
+[2021.02.15-17.48.42:618][558]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2021.02.15-17.48.42:619][558]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2021.02.15-17.48.42:619][558]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.15-17.48.42:619][558]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.15-17.48.42:619][558]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.15-17.48.42:619][558]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.15-17.48.42:619][558]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.15-17.48.42:619][558]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.15-17.48.42:619][558]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.15-17.48.42:619][558]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.15-17.48.42:619][558]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.15-17.48.42:619][558]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.15-17.48.42:623][558]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.15-17.48.42:623][558]LogAudioMixer: Display: 1: FrontRight
+[2021.02.15-17.48.42:635][558]LogAudioMixer: Display: Using Audio Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2021.02.15-17.48.42:636][558]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.15-17.48.42:636][558]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.15-17.48.42:636][558]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.15-17.48.42:636][558]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.15-17.48.42:637][558]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.02.15-17.48.42:637][558]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.02.15-17.48.42:647][558]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.02.15-17.48.42:647][558]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.02.15-17.48.42:647][558]LogInit: FAudioDevice initialized.
+[2021.02.15-17.48.42:647][558]LogAudio: Display: Audio Device (ID: 25) registered with world 'RunnerLevel'.
+[2021.02.15-17.48.42:661][558]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.02.15-17.48.42:661][558]LogWorld: Bringing World /Game/Maps/UEDPIE_0_RunnerLevel.RunnerLevel up for play (max tick rate 0) at 2021.02.16-01.48.42
+[2021.02.15-17.48.42:662][558]LogWorld: Bringing up level for play took: 0.000377
+[2021.02.15-17.48.42:662][558]LogOnline: OSS: Creating online subsystem instance for: :Context_42
+[2021.02.15-17.48.42:669][558]PIE: Server logged in
+[2021.02.15-17.48.42:670][558]PIE: Play in editor total start time 0.12 seconds.
+[2021.02.15-17.48.43:528][660]LogBlueprintUserMessages: [MasterTile_C_0] 15
+[2021.02.15-17.48.44:353][759]LogBlueprintUserMessages: [MasterTile_C_1] 30
+[2021.02.15-17.48.45:170][855]LogBlueprintUserMessages: [MasterTile_C_2] 45
+[2021.02.15-17.48.45:976][951]LogBlueprintUserMessages: [MasterTile_C_3] 60
+[2021.02.15-17.48.46:776][ 47]LogBlueprintUserMessages: [MasterTile_C_4] 75
+[2021.02.15-17.48.47:568][142]LogBlueprintUserMessages: [MasterTile_C_5] 90
+[2021.02.15-17.48.48:352][236]LogBlueprintUserMessages: [MasterTile_C_6] 105
+[2021.02.15-17.48.49:135][330]LogBlueprintUserMessages: [MasterTile_C_7] 120
+[2021.02.15-17.48.49:902][422]LogBlueprintUserMessages: [MasterTile_C_8] 135
+[2021.02.15-17.48.50:660][513]LogBlueprintUserMessages: [MasterTile_C_9] 150
+[2021.02.15-17.48.51:418][604]LogBlueprintUserMessages: [MasterTile_C_10] 165
+[2021.02.15-17.48.52:168][694]LogBlueprintUserMessages: [MasterTile_C_11] 180
+[2021.02.15-17.48.52:905][782]LogBlueprintUserMessages: [MasterTile_C_12] 195
+[2021.02.15-17.48.53:640][870]LogBlueprintUserMessages: [MasterTile_C_13] 210
+[2021.02.15-17.48.54:366][957]LogBlueprintUserMessages: [MasterTile_C_14] 225
+[2021.02.15-17.48.55:083][ 43]LogBlueprintUserMessages: [MasterTile_C_15] 240
+[2021.02.15-17.48.55:790][128]LogBlueprintUserMessages: [MasterTile_C_16] 255
+[2021.02.15-17.48.56:491][212]LogBlueprintUserMessages: [MasterTile_C_17] 270
+[2021.02.15-17.48.57:192][296]LogBlueprintUserMessages: [MasterTile_C_18] 285
+[2021.02.15-17.48.57:879][378]LogBlueprintUserMessages: [MasterTile_C_19] 300
+[2021.02.15-17.48.58:563][460]LogBlueprintUserMessages: [MasterTile_C_20] 315
+[2021.02.15-17.48.59:238][541]LogBlueprintUserMessages: [MasterTile_C_21] 330
+[2021.02.15-17.48.59:912][622]LogBlueprintUserMessages: [MasterTile_C_22] 345
+[2021.02.15-17.49.00:571][701]LogBlueprintUserMessages: [MasterTile_C_23] 360
+[2021.02.15-17.49.01:230][780]LogBlueprintUserMessages: [MasterTile_C_24] 375
+[2021.02.15-17.49.01:875][857]LogBlueprintUserMessages: [MasterTile_C_25] 390
+[2021.02.15-17.49.02:525][935]LogBlueprintUserMessages: [MasterTile_C_26] 405
+[2021.02.15-17.49.03:159][ 11]LogBlueprintUserMessages: [MasterTile_C_27] 420
+[2021.02.15-17.49.03:793][ 87]LogBlueprintUserMessages: [MasterTile_C_28] 435
+[2021.02.15-17.49.04:419][162]LogBlueprintUserMessages: [MasterTile_C_29] 450
+[2021.02.15-17.49.05:029][235]LogBlueprintUserMessages: [MasterTile_C_30] 465
+[2021.02.15-17.49.05:647][309]LogBlueprintUserMessages: [MasterTile_C_31] 480
+[2021.02.15-17.49.06:255][382]LogBlueprintUserMessages: [MasterTile_C_32] 495
+[2021.02.15-17.49.06:855][454]LogBlueprintUserMessages: [MasterTile_C_33] 510
+[2021.02.15-17.49.07:447][525]LogBlueprintUserMessages: [MasterTile_C_34] 525
+[2021.02.15-17.49.08:030][595]LogBlueprintUserMessages: [MasterTile_C_35] 540
+[2021.02.15-17.49.08:614][665]LogBlueprintUserMessages: [MasterTile_C_36] 555
+[2021.02.15-17.49.09:197][735]LogBlueprintUserMessages: [MasterTile_C_37] 570
+[2021.02.15-17.49.09:765][803]LogBlueprintUserMessages: [MasterTile_C_38] 585
+[2021.02.15-17.49.10:332][871]LogBlueprintUserMessages: [MasterTile_C_39] 600
+[2021.02.15-17.49.10:890][938]LogBlueprintUserMessages: [MasterTile_C_40] 615
+[2021.02.15-17.49.11:441][  4]LogBlueprintUserMessages: [MasterTile_C_41] 630
+[2021.02.15-17.49.11:991][ 70]LogBlueprintUserMessages: [MasterTile_C_42] 645
+[2021.02.15-17.49.12:538][135]LogBlueprintUserMessages: [MasterTile_C_43] 660
+[2021.02.15-17.49.13:072][199]LogBlueprintUserMessages: [MasterTile_C_44] 675
+[2021.02.15-17.49.13:605][263]LogBlueprintUserMessages: [MasterTile_C_45] 690
+[2021.02.15-17.49.14:130][326]LogBlueprintUserMessages: [MasterTile_C_46] 705
+[2021.02.15-17.49.14:657][389]LogBlueprintUserMessages: [MasterTile_C_47] 720
+[2021.02.15-17.49.15:174][451]LogBlueprintUserMessages: [MasterTile_C_48] 735
+[2021.02.15-17.49.15:689][512]LogBlueprintUserMessages: [MasterTile_C_49] 750
+[2021.02.15-17.49.16:189][572]LogBlueprintUserMessages: [MasterTile_C_50] 765
+[2021.02.15-17.49.16:697][633]LogBlueprintUserMessages: [MasterTile_C_51] 780
+[2021.02.15-17.49.17:189][692]LogBlueprintUserMessages: [MasterTile_C_52] 795
+[2021.02.15-17.49.17:681][751]LogBlueprintUserMessages: [MasterTile_C_53] 810
+[2021.02.15-17.49.18:172][810]LogBlueprintUserMessages: [MasterTile_C_54] 825
+[2021.02.15-17.49.18:649][867]LogBlueprintUserMessages: [MasterTile_C_55] 840
+[2021.02.15-17.49.19:132][925]LogBlueprintUserMessages: [MasterTile_C_56] 855
+[2021.02.15-17.49.19:600][981]LogBlueprintUserMessages: [MasterTile_C_57] 870
+[2021.02.15-17.49.20:070][ 37]LogBlueprintUserMessages: [MasterTile_C_58] 885
+[2021.02.15-17.49.20:536][ 93]LogBlueprintUserMessages: [MasterTile_C_59] 900
+[2021.02.15-17.49.20:996][148]LogBlueprintUserMessages: [MasterTile_C_60] 915
+[2021.02.15-17.49.21:446][202]LogBlueprintUserMessages: [MasterTile_C_61] 930
+[2021.02.15-17.49.21:897][256]LogBlueprintUserMessages: [MasterTile_C_62] 945
+[2021.02.15-17.49.22:339][309]LogBlueprintUserMessages: [MasterTile_C_63] 960
+[2021.02.15-17.49.22:780][362]LogBlueprintUserMessages: [MasterTile_C_64] 975
+[2021.02.15-17.49.23:222][415]LogBlueprintUserMessages: [MasterTile_C_65] 990
+[2021.02.15-17.49.23:647][465]LogBlueprintUserMessages: [MasterTile_C_66] 1005
+[2021.02.15-17.49.24:080][517]LogBlueprintUserMessages: [MasterTile_C_67] 1020
+[2021.02.15-17.49.24:507][568]LogBlueprintUserMessages: [MasterTile_C_68] 1035
+[2021.02.15-17.49.24:923][618]LogBlueprintUserMessages: [MasterTile_C_69] 1050
+[2021.02.15-17.49.25:340][668]LogBlueprintUserMessages: [MasterTile_C_70] 1065
+[2021.02.15-17.49.29:224][122]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.15-17.49.29:224][122]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_RunnerLevel
+[2021.02.15-17.49.29:224][122]LogWorld: UWorld::CleanupWorld for RunnerLevel, bSessionEnded=true, bCleanupResources=true
+[2021.02.15-17.49.29:225][122]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.15-17.49.29:232][122]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.15-17.49.29:239][122]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.15-17.49.29:270][122]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.02.15-17.49.29:271][122]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.15-17.49.29:272][122]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.15-17.49.29:284][122]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.15-17.49.29:292][122]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2021.02.15-17.49.29:322][123]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2021.02.15-17.50.17:320][942]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Art/RunnerFiles/Blueprints/MasterTile.MasterTile
+[2021.02.15-17.50.53:319][437]BlueprintLog: New page: Compile MasterTile
+[2021.02.15-17.50.53:381][437]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2021.02.15-17.50.53:472][437]LogSavePackage: Moving 'D:/03_Unreal Projects/Github/DaylightRunner/DaylightRunner/Saved/MasterTileC8B8F3A847439E854BB2B6A04975EA03.tmp' to 'D:/03_Unreal Projects/Github/DaylightRunner/DaylightRunner/Content/Art/RunnerFiles/Blueprints/MasterTile.uasset'
+[2021.02.15-17.50.53:483][437]AssetCheck: New page: Asset Save: MasterTile
+[2021.02.15-17.50.53:484][437]LogContentValidation: Display: Validating Blueprint /Game/Art/RunnerFiles/Blueprints/MasterTile.MasterTile
+[2021.02.15-17.51.08:195][365]BlueprintLog: New page: Compile MasterTile
+[2021.02.15-17.51.08:253][365]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2021.02.15-17.51.08:330][365]LogSavePackage: Moving 'D:/03_Unreal Projects/Github/DaylightRunner/DaylightRunner/Saved/MasterTile4E1909634CB20795CE71B99A45F6B43A.tmp' to 'D:/03_Unreal Projects/Github/DaylightRunner/DaylightRunner/Content/Art/RunnerFiles/Blueprints/MasterTile.uasset'
+[2021.02.15-17.51.08:342][365]AssetCheck: New page: Asset Save: MasterTile
+[2021.02.15-17.51.08:343][365]LogContentValidation: Display: Validating Blueprint /Game/Art/RunnerFiles/Blueprints/MasterTile.MasterTile
+[2021.02.15-17.52.16:428][837]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.15-17.52.16:437][837]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.15-17.52.16:437][837]PIE: New page: PIE session: RunnerLevel (16 Feb 2021, 9:52:16 am)
+[2021.02.15-17.52.16:438][837]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_RunnerLevel
+[2021.02.15-17.52.16:439][837]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001630s)
+[2021.02.15-17.52.16:440][837]LogAIModule: Creating AISystem for world RunnerLevel
+[2021.02.15-17.52.16:440][837]LogPlayLevel: PIE: World Init took: (0.000862s)
+[2021.02.15-17.52.16:440][837]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/RunnerLevel.RunnerLevel to /Game/Maps/UEDPIE_0_RunnerLevel.RunnerLevel (0.002568s)
+[2021.02.15-17.52.16:474][837]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2021.02.15-17.52.16:475][837]LogAudio: Display: Creating Audio Device:                 Id: 26, Scope: Unique, Realtime: True
+[2021.02.15-17.52.16:475][837]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.15-17.52.16:475][837]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.15-17.52.16:475][837]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.15-17.52.16:475][837]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.15-17.52.16:475][837]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.15-17.52.16:475][837]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.15-17.52.16:475][837]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.15-17.52.16:475][837]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.15-17.52.16:476][837]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.15-17.52.16:476][837]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.15-17.52.16:479][837]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.15-17.52.16:479][837]LogAudioMixer: Display: 1: FrontRight
+[2021.02.15-17.52.16:490][837]LogAudioMixer: Display: Using Audio Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2021.02.15-17.52.16:491][837]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.15-17.52.16:491][837]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.15-17.52.16:491][837]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.15-17.52.16:491][837]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.15-17.52.16:491][837]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.02.15-17.52.16:491][837]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.02.15-17.52.16:502][837]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.02.15-17.52.16:502][837]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.02.15-17.52.16:502][837]LogInit: FAudioDevice initialized.
+[2021.02.15-17.52.16:502][837]LogAudio: Display: Audio Device (ID: 26) registered with world 'RunnerLevel'.
+[2021.02.15-17.52.16:507][837]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.02.15-17.52.16:508][837]LogWorld: Bringing World /Game/Maps/UEDPIE_0_RunnerLevel.RunnerLevel up for play (max tick rate 0) at 2021.02.16-01.52.16
+[2021.02.15-17.52.16:508][837]LogWorld: Bringing up level for play took: 0.000349
+[2021.02.15-17.52.16:508][837]LogOnline: OSS: Creating online subsystem instance for: :Context_44
+[2021.02.15-17.52.16:516][837]PIE: Server logged in
+[2021.02.15-17.52.16:517][837]PIE: Play in editor total start time 0.08 seconds.
+[2021.02.15-17.52.17:422][944]LogBlueprintUserMessages: [MasterTile_C_0] 15
+[2021.02.15-17.52.18:247][ 43]LogBlueprintUserMessages: [MasterTile_C_1] 30
+[2021.02.15-17.52.19:063][140]LogBlueprintUserMessages: [MasterTile_C_2] 45
+[2021.02.15-17.52.19:874][237]LogBlueprintUserMessages: [MasterTile_C_3] 60
+[2021.02.15-17.52.20:675][333]LogBlueprintUserMessages: [MasterTile_C_4] 75
+[2021.02.15-17.52.21:468][428]LogBlueprintUserMessages: [MasterTile_C_5] 90
+[2021.02.15-17.52.22:252][522]LogBlueprintUserMessages: [MasterTile_C_6] 105
+[2021.02.15-17.52.23:028][614]LogBlueprintUserMessages: [MasterTile_C_7] 120
+[2021.02.15-17.52.23:805][706]LogBlueprintUserMessages: [MasterTile_C_8] 135
+[2021.02.15-17.52.24:561][796]LogBlueprintUserMessages: [MasterTile_C_9] 150
+[2021.02.15-17.52.25:317][886]LogBlueprintUserMessages: [MasterTile_C_10] 165
+[2021.02.15-17.52.26:064][972]LogBlueprintUserMessages: [MasterTile_C_11] 180
+[2021.02.15-17.52.26:798][ 60]LogBlueprintUserMessages: [MasterTile_C_12] 195
+[2021.02.15-17.52.27:532][148]LogBlueprintUserMessages: [MasterTile_C_13] 210
+[2021.02.15-17.52.28:255][234]LogBlueprintUserMessages: [MasterTile_C_14] 225
+[2021.02.15-17.52.28:972][320]LogBlueprintUserMessages: [MasterTile_C_15] 240
+[2021.02.15-17.52.29:689][406]LogBlueprintUserMessages: [MasterTile_C_16] 255
+[2021.02.15-17.52.30:389][490]LogBlueprintUserMessages: [MasterTile_C_17] 270
+[2021.02.15-17.52.31:089][574]LogBlueprintUserMessages: [MasterTile_C_18] 285
+[2021.02.15-17.52.31:781][656]LogBlueprintUserMessages: [MasterTile_C_19] 300
+[2021.02.15-17.52.32:456][737]LogBlueprintUserMessages: [MasterTile_C_20] 315
+[2021.02.15-17.52.33:133][818]LogBlueprintUserMessages: [MasterTile_C_21] 330
+[2021.02.15-17.52.33:808][899]LogBlueprintUserMessages: [MasterTile_C_22] 345
+[2021.02.15-17.52.34:465][977]LogBlueprintUserMessages: [MasterTile_C_23] 360
+[2021.02.15-17.52.35:124][ 56]LogBlueprintUserMessages: [MasterTile_C_24] 375
+[2021.02.15-17.52.35:775][134]LogBlueprintUserMessages: [MasterTile_C_25] 390
+[2021.02.15-17.52.36:417][211]LogBlueprintUserMessages: [MasterTile_C_26] 405
+[2021.02.15-17.52.37:052][287]LogBlueprintUserMessages: [MasterTile_C_27] 420
+[2021.02.15-17.52.37:688][362]LogBlueprintUserMessages: [MasterTile_C_28] 435
+[2021.02.15-17.52.38:315][437]LogBlueprintUserMessages: [MasterTile_C_29] 450
+[2021.02.15-17.52.38:931][511]LogBlueprintUserMessages: [MasterTile_C_30] 465
+[2021.02.15-17.52.39:540][584]LogBlueprintUserMessages: [MasterTile_C_31] 480
+[2021.02.15-17.52.40:148][657]LogBlueprintUserMessages: [MasterTile_C_32] 495
+[2021.02.15-17.52.40:749][729]LogBlueprintUserMessages: [MasterTile_C_33] 510
+[2021.02.15-17.52.41:341][800]LogBlueprintUserMessages: [MasterTile_C_34] 525
+[2021.02.15-17.52.41:926][869]LogBlueprintUserMessages: [MasterTile_C_35] 540
+[2021.02.15-17.52.42:512][939]LogBlueprintUserMessages: [MasterTile_C_36] 555
+[2021.02.15-17.52.43:088][  8]LogBlueprintUserMessages: [MasterTile_C_37] 570
+[2021.02.15-17.52.43:664][ 77]LogBlueprintUserMessages: [MasterTile_C_38] 585
+[2021.02.15-17.52.44:224][144]LogBlueprintUserMessages: [MasterTile_C_39] 600
+[2021.02.15-17.52.44:782][208]LogBlueprintUserMessages: [MasterTile_C_40] 615
+[2021.02.15-17.52.45:336][274]LogBlueprintUserMessages: [MasterTile_C_41] 630
+[2021.02.15-17.52.45:885][340]LogBlueprintUserMessages: [MasterTile_C_42] 645
+[2021.02.15-17.52.46:428][405]LogBlueprintUserMessages: [MasterTile_C_43] 660
+[2021.02.15-17.52.46:968][469]LogBlueprintUserMessages: [MasterTile_C_44] 675
+[2021.02.15-17.52.47:504][533]LogBlueprintUserMessages: [MasterTile_C_45] 690
+[2021.02.15-17.52.48:029][596]LogBlueprintUserMessages: [MasterTile_C_46] 705
+[2021.02.15-17.52.48:555][659]LogBlueprintUserMessages: [MasterTile_C_47] 720
+[2021.02.15-17.52.49:071][721]LogBlueprintUserMessages: [MasterTile_C_48] 735
+[2021.02.15-17.52.49:580][782]LogBlueprintUserMessages: [MasterTile_C_49] 750
+[2021.02.15-17.52.50:089][843]LogBlueprintUserMessages: [MasterTile_C_50] 765
+[2021.02.15-17.52.50:589][902]LogBlueprintUserMessages: [MasterTile_C_51] 780
+[2021.02.15-17.52.51:084][961]LogBlueprintUserMessages: [MasterTile_C_52] 795
+[2021.02.15-17.52.51:575][ 20]LogBlueprintUserMessages: [MasterTile_C_53] 810
+[2021.02.15-17.52.52:068][ 79]LogBlueprintUserMessages: [MasterTile_C_54] 825
+[2021.02.15-17.52.52:545][136]LogBlueprintUserMessages: [MasterTile_C_55] 840
+[2021.02.15-17.52.53:023][193]LogBlueprintUserMessages: [MasterTile_C_56] 855
+[2021.02.15-17.52.53:497][250]LogBlueprintUserMessages: [MasterTile_C_57] 870
+[2021.02.15-17.52.53:965][306]LogBlueprintUserMessages: [MasterTile_C_58] 885
+[2021.02.15-17.52.54:425][361]LogBlueprintUserMessages: [MasterTile_C_59] 900
+[2021.02.15-17.52.54:883][415]LogBlueprintUserMessages: [MasterTile_C_60] 915
+[2021.02.15-17.52.55:343][470]LogBlueprintUserMessages: [MasterTile_C_61] 930
+[2021.02.15-17.52.57:284][695]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.15-17.52.57:284][695]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_RunnerLevel
+[2021.02.15-17.52.57:284][695]LogWorld: UWorld::CleanupWorld for RunnerLevel, bSessionEnded=true, bCleanupResources=true
+[2021.02.15-17.52.57:285][695]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.15-17.52.57:296][695]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.15-17.52.57:302][695]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.15-17.52.57:331][695]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.15-17.52.57:333][695]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.15-17.52.57:334][695]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.15-17.52.57:351][695]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2021.02.15-17.52.57:377][696]LogPlayLevel: Display: Destroying online subsystem :Context_44
